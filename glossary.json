@@ -1489,6 +1489,12 @@
             "type": "olympus"
         },
         {
+            "englishWord": "Imperial Holy Grail War",
+            "portugueseWord": "Guerra Imperial do Santo Graal",
+            "description": "",
+            "type": "heian-kyo"
+        },
+        {
             "englishWord": "Shielder/Saber/Archer/Lancer/Rider/Assassin/Caster/Berserker/Alter-Ego/Ruler/Avenger/Moon Cancer/Foreigner/Pretender/Beast",
             "portugueseWord": "Shielder/Saber/Archer/Lancer/Rider/Assassin/Caster/Berserker/Alter-Ego/Ruler/Avenger/Moon Cancer/Foreigner/Pretender/Beast",
             "description": "As Classes dos Servos e inimigos do jogo.",
