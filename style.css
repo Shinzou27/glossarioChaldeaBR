@@ -1,0 +1,62 @@
+body {
+    max-width: 70%;
+    margin: auto;
+    background-color: rgb(27, 27, 27);
+    color: rgb(250, 250, 250);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.header {
+    padding-top: 1em;
+    text-align: center;
+    font-size: 1.5em;
+    border-bottom: 2px solid black;
+}
+
+.header h1 {
+    margin: 5px;
+}
+
+.header img {
+    height: 256px;
+    border-radius: 25%;
+    margin: -10px;
+    cursor: pointer;
+}
+
+.inputs {
+    text-align: center;
+    margin: auto;
+    margin-top: 20px;
+    max-width: 50%;
+}
+
+.inputs input {
+    width: 100%;
+    font-size: 1.5em;
+    border: none;
+    border-bottom: 1px solid black;
+    background-color: rgb(27, 27, 27);
+}
+
+#term {
+    border-bottom: 2px solid black;
+    font-size: 1.1em;
+}
+#term p,
+#term h2,
+#term h4 {
+    max-width: fit-content;
+    background-color: rgb(5, 5, 5);
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+
+#term h2 {
+    font-size: 2em;
+    margin-bottom: -20px;
+}
+
+#term #singularity {
+    background-color: inherit;
+}

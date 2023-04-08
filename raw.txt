@@ -1,0 +1,448 @@
+Age of Gods - Era dos Deuses
+A era em que deuses coexistiam com humanos e a atmosfera era repleta de energia mágica e de Mistérios.
+ Age of Humans - Era dos Humanos
+A era que sucede a dos Deuses os humanos agora vivem por conta própria, sem a influência divina.
+ Atlas Institute - Instituto Atlas
+Uma das ramificações da Associação dos Magos. Um templo subterrâneo repleto de alquimistas geniais e armas perigosas. Também conhecido como "Fenda do Titã" e "Academia Atlas."
+ Bounded Field - Campo Limitado
+É um tipo de magia que cria uma barreira em uma área específica.
+ Central Command Room - Sala de Controle Central
+A Sala de Controle de Chaldea.
+ Chaldea Security Organization - Organização de Segurança Chaldea
+A organização responsável por proteger o futuro da humanidade dos perigos observados pelas Lentes Sheba.
+ Clock Tower - Torre do Relógio
+Uma das ramificações da Associação dos Magos, e sua sede. É dividida em doze Departamentos focados em tipos específicos de magia.
+ Command Spell(s) - Selo(s) de Comando
+Os Selos concedidos pelo Graal a Mestres em uma Guerra do Santo Graal.
+ Crown Prince - Príncipe Herdeiro
+O título de Nezha.
+ Counter Force - Força de Contenção
+O mecanismo inato do planeta para proteção da humanidade, invocando Espíritos Heroicos e Guardiões da Counter Force.
+ Dead Apostle - Apóstolo Morto
+Um humano que se tornou um vampiro por meio de outro vampiro ou por magia.
+ Demi-Servant - Semi-Servo
+Um humano que adquiriu o Saint Graph de um Espírito Heroico.
+ Demon God/72 Demon Gods - Demônio(s) de Salomão/72 Demônios de Salomão
+ Demon God Pillar - Grande Pilar Demoníaco
+ Demonic Beast - Besta Demoníaca
+ Divine Construct - Construto Divino
+Uma arma ou armadura forjada por deuses.
+ Divine Spirit - Espírito Divino
+Um espírito num nível próximo de um deus. 
+Ether Body - Corpo Etéreo
+ Foundation of Humanity - Fundação da Humanidade
+A ordem de relevância de um acontecimento para a história humana.
+ Global Enviroment Model, Chaldeas - Maquete do Ambiente Global, Chaldeas
+A maquete que replica a condição atual do planeta com a assistência das Lentes Sheba, podendo observar também até 100 anos no futuro.
+ Greater Grail - Graal Maior
+O corpo real do Graal realizador de desejos.
+ Heroic Spirit - Espírito Heroico
+Uma figura, histórica ou fictícia, marcada na história pelos seus grandes feitos.
+ High Servant - Servo Composto
+Um Servo anômalo composto por fragmentos de diferentes divindades e Espíritos Heroicos.
+ Holy Church - Santa Igreja
+A Igreja que lida com diversos assuntos do mundo mágico, além de supervisionar as Guerras do Santo Graal.
+ Holy Grail - Santo Graal
+O Santo Graal realizador de desejos.
+ Homunculus(li) - Homúnculo(s)
+Seres artificiais criados com altos níveis de circuitos mágicos de alta qualidade.
+ Ireland's Child of Light - Filho da Luz da Irlanda
+Título do Cú Chulainn.
+ King of Heroes - Rei dos Heróis
+Título do Gilgamesh.
+ King of Knights - Rei dos Cavaleiros
+Título da Arthuria Pendragon e do Arthur Pendragon.
+ Leyline - Linha ley
+Locais do planeta com grandes quantias de fluxo de energia mágica.
+ Lesser Grail - Graal Menor
+O recipiente que se assemelha a um Graal, um receptáculo ligado ao Graal Maior.
+ Mage's Association - Associação dos Magos
+A instituição que rege as regras da sociedade dos magos.
+ Magecraft - Magia
+Os métodos humanos de recriar Mistérios, executando feitiços normalmente vistos como sobrenaturais.
+ (True) Magic - Magia Verdadeira
+São os feitiços classificados como "milagres" e "impossíveis". Sua existência é um perigo aos olhos da Counter Force. Existem apenas cinco, por enquanto. 
+Magic Circuit(s) - Circuito(s) Mágico(s)
+Uma parte do sistema nervoso por onde flui energia mágica no corpo de um mago. Quanto mais circuitos mágicos de boa qualidade, melhor é o mago.
+ Magic Crest - Brasão Mágico
+O brasão composto por circuitos mágicos de geração em geração numa linhagem de magos, e que guarda informações sobre os feitiços masterizados pela mesma.
+ Marble Phantasm - Projeção de Fantasia
+ Mystic Code - Artefato Místico
+São criações mágicas com o objetivo de aprimorar feitiços do mago usuário ou executar feitiços próprios.
+ Mystic Eyes - Olhos Místicos
+Olhos que possuem habilidades mágicas sobrenaturais.
+ Mystic Eyes of Clear Vision - Olhos Místicos da Clarividência
+ Mystic Eyes of Death Perception - Olhos Místicos de Percepção da Morte
+ Mystics - Mistérios
+Tudo aquilo que é sobrenatural ou de origem divina. A queda da Era dos Deuses e o advento da tecnologia moderna diminuíram consideravelmente o poder e a quantidade dos Mistérios.
+ Near-Future Observation Lens, Sheba - Lentes de Observação do Futuro Próximo, Sheba
+Um mecanismo que permite a observação detalhada de eventos do presente, podendo também observar o passado e o futuro com menor precisão e estabilidade.
+ Noble Phantasm - Fantasma Nobre
+A sublimação da lenda de um Espírito Heroico em um artefato ou arma. A marca registrada de um Herói. 
+Phantasmal Species - Espécies Fantasmais
+Todas as espécies sobrenaturais do mundo.
+ Reality Marble - Projeção de Realidade
+O tipo supremo de Campo Limitado, onde o usuário projeta seu mundo interno sobre o mundo externo, temporariamente reescrevendo a textura do mundo.
+ Recovery Pod - Cápsula de Recuperação
+ Saint Graph/Spirit Origin - Origem Espiritual
+É a fundação da formação do corpo de um Servo.
+ Santa Servant - Servo Noel
+Um Servo afetado pela febre do Natal.
+ Shadow Servant - Servo Sombrio
+Um Servo incompleto, degradado, ou falso.
+ Spirit Core/Spiritual Core - Núcleo Espiritual
+O núcleo da existência de um Servo. Contanto que ele esteja intacto, o Servo continuará vivo.
+ Spiritron Calculation Engine, Trismegistus - Mecanismo de Cálculos de Spiritron, Trismegistus
+Um supercomputador dado à Chaldea pelo Instituto Atlas. Por meio de cálculos mágicos, ele pode provar a existência de um Mestre independente de que momento na história ele existiu ou existirá.
+ Stamina - Vigor
+ Stray Servant - Servo Errante
+Um Servo invocado pelo Graal sem possuir um Mestre.
+ Team A - Equipe A
+Os sete magos mais capacitados contratados por Marisbury em Chaldea. No começo da história, eles são colocados em cápsulas para serem preservados após a explosão da Sala de Controle.
+ True Ancestor(s) - Ancestral(is) Original(is)
+Vampiros naturais, criados pela própria natureza. Os vampiros originais.
+ True Name - Nome Verdadeiro
+O Nome Verdadeiro de um Servo.
+ Twelve Lords - Doze Lordes
+Os líderes dos doze departamentos da Torre do Relógio.
+ Ultimate One - Ser Supremo
+ Wandering Sea - Mar Errante
+Uma das ramificações da Associação dos Magos. Seus magos preferem se isolar do mundo moderno. Também conhecido como "Baldanders."
+
+Amalgam Goad - Amálgama de Incitações
+Authority - Autoridade
+Avenger - Avenger (passiva da Classe)
+Cosmo Reactor - Reator de Cosmos
+Divinity - Divindade
+Entity of the Outer Realm - Entidade do Domínio Exterior
+Fae Eyes - Olhos de Fada
+Goddess' Essence (Core of the Goddess) - Essência da Deusa
+High-Speed Divine Words - Palavras Divinas em Alta Velocidade
+Independent Action - Ação Independente
+Independent Manifestation - Manifestação Independente
+Independent Navigation - Navegação Independente
+Innocent Monster - Monstro Inocente
+Item Construction - Criação de Itens
+Mad(ness) Enhancement - Aprimoramento por Loucura
+Magic Resistance - Resistência Mágica
+Mana Burst - Explosão de Mana
+Mind's Eye - Olho da Mente
+Natural Body - Corpo Natural
+Nega Desire - Negação de Desejos
+Nega Genesis - Negação da Gênese
+Nega Saver - Negação da Salvação
+Nega Self - Negação da Individualidade
+Nega Summon - Negação de Invocação
+Nega Weapon - Negação de Armas
+Oblivion Correction - Correção do Oblívio
+Obscurant Wall of Chalk - Muralha Obscura de Calcário
+Pioneer of the Stars - Pioneiro das Estrelas
+Presence Concealment - Ocultação de Presença
+Riding - Equitação
+Shapeshift - Metamorfo/Metamorfose
+Self-Replenishment (Magic) - Auto-Reabastecimento (Mágico)
+Shield of Rousing Resolution - Escudo da Resolução Encorajadora
+Stargazer's Journey - Jornada da Astróloga
+Succeed Phantasm: Possession Inheritance - Fantasma Sucessor: Herança de Possesão
+Territory Creation - Criação de Território
+Territory Defense - Defesa de Território
+Transient Wall of Snowflakes - Muralha Transitória de Flocos de Neve
+
+Phenomenon Recording Cyber Daemon Laplace - Serviço Cibernético de Observação Laplace
+ O sistema que guarda todos os dados observados do passado pelas Lentes SHEBA
+Heroic Spirit Summoning System FATE - Sistema 'FATE' de Invocação de Espíritos Heroicos
+ O sistema empregado por Chaldea para conduzir invocações de Servos.
+Klein Coffins - Cápsulas Klein
+  As cápsulas utilizadas para o processo de transformação de matéria em Spiritrons para o Rayshift.
+Lev/Leff Lainur - Lev Lainur
+ O professor que inventou as Lentes SHEBA e auxilia Chaldea desde sua concepção.
+Master Candidate #48 - Candidato(a) a Mestre N° 48
+ Você, o jogador. O último dos candidatos a se inscrever no projeto.
+Singularity - Singularidade
+ Alterações do espaço-tempo que podem causar mudanças na história humana se não forem corrigidas pela equipe de Chaldea.
+
+ Dragon Witch - Bruxa dos Dragões
+ Título da Jeanne d'Arc que comanda os dragões na singularidade.
+Spiritron Shell - Carcaça de Spiritron
+ A camada exterior de um Servo, seu cadáver.
+
+ Flying General - General Voador
+ Título do Lu Bu Fengxian.
+Holy Ancestor/Divine Ancestor - Ancestral Divino
+ O título do Romulus, como o progenitor da dinastia romana.
+Scourge of God - Chicote de Deus
+ O título da Altera.
+
+ Age of Exploration - Era das Grandes Navegações
+ A era da Expansão Marítima dos séculos XV e XVI.
+Ark - Arca
+ O Fantasma Nobre do David. A Arca da Aliança descrita na Bíblia como a guardadora das tábuas dos Dez Mandamentos.
+
+ Automata - Autômato
+ Um manequim animado.
+Project Demonic Fog - Projeto Névoa Demoníaca
+ O projeto que visa destruir a cidade de Londres, e então toda a Inglaterra.
+Treacherous Knight - Cavaleiro da Traição
+ O título da Mordred por trair Camelot nas lendas.
+
+ Hero of Benefaction - Herói da Caridade
+ Título do Karna por ser extremamente caridoso nas lendas.
+Hero of Endowed - Herói Agraciado
+ Título do Arjuna por receber diversas bênçãos nas lendas.
+Land of Shadows - Terra das Sombras
+ Um reino que foi separado do Mundo, e atualmente se encontra no Lado Inverso do Mundo, sendo repleto de morte.
+Presi-king - Presi-rei
+ Título do Edison durante a Singularidade.
+Mad King - Rei Insano
+ Título do Cú Chulainn (Alter) durante a Singularidade.
+No Face May King - Rei Sem Face 
+ O Fantasma Nobre do Robin Hood que o concede camuflagem.
+
+ Enforcement Knight - Cavaleiro Executor
+First Hassan - Primeiro Hassan
+ O fundador da ceita assassina o primeiro Hassan-i Sabbah.
+Gift - Dádiva (Bênçãos da Deusa Rhongomyniad)
+Goddess Rhongomyniad - Deusa Rhongomyniad
+ A Arthuria cujo espírito continuou preso a Camelot e ascendeu à divindade graças ao poder da Lança Sagrada, Rhongomyniad, perdendo toda sua essência humana.
+Hassan of Serenity - Hassan da Serenidade
+Hassan of the Cursed Arm - Hassan do Braço Amaldiçoado
+Hassan of the Hundred Faces - Hassan das Cem Personas
+Hassan of the Intoxicating Smoke - Hassan da Fumaça Intoxicante
+Hassan of the Peeling Shadows - Hassan das Sombras Descascadas
+Hassan of the Trembling Pipe - Hassan do Cachimbo Trêmulo
+Holy City - Cidade Sagrada
+ A nova Camelot.
+Holy Land - Terra Santa
+ A Terra Prometida, Jerusalém.
+Holy Selection - Seleção Sagrada
+ O ato de seleção dos dignos a se tornarem moradores de Camelot.
+Knights of the Round Table - Cavaleiros da Távola Redonda
+Lion King - Rei Leão
+ O título da Deusa Rhongomyniad durante a Singularidade.
+Old Man of the Mountain - Velho da Montanha
+ O título dado ao Hassan-i Sabbah de cada geração aquele que lidera a Ordem dos Assassinos.
+Raider Knight - Cavaleiro Expedicionário
+ O título do Lancelot durante a Singularidade.
+Sacred Lance/Spear - Lança Sagrada
+ Rhongomyniad, a Lança Sagrada.
+Sun King - Rei Sol
+ O título do Ozymandias.
+Titan's Pit - Fenda do Titã
+ Um dos nomes do Instituto Atlas.
+The Shining Arm - O Braço Cintilante
+ O braço do Bedivere.
+The Tower at the Ends of the World - A Torre nos Confins do Mundo
+ A torre que reside no Lado Inverso do Mundo, mantendo ambas as texturas do mundo intactas e separadas A verdadeira Rhongomyniad.
+
+ Absolute Demonic Front - Fronte Demoníaco (Absoluto)
+ O fronte de Uruk que batalha contras as Bestas Demoníacas.
+Chains of the Heavens - Corrente dos Céus
+ O título de Enkidu, devido à sua forma de corrente divina.
+Chaos Tide - Maré do Caos
+ A maré criada pela Tiamat capaz de corromper seres vivos e Servos.
+Evil(s) of Humanity - Mal(es) da Humanidade
+ As Beasts, criaturas que a humanidade está destinada a enfrentar e superar.
+Grand Servant - Servo Grand
+ Um Servo invocado pela Counter Force para previnir a extinção da humanidade pelas mãos de uma Beast.
+Northern Wall - Muralha do Norte
+ A muralha da porção norte da cidade de Uruk.
+Sacred Temple - Templo Sagrado
+ O templo de Uruk.
+The Fangs of Napishtim - As Presas de Napishtim
+ A barreira empregada pelo Gilgamesh para impedir o avanço da Maré do Caos.
+Three Goddess Alliance - Aliança das Três Deusas
+ A aliança formada pelas três deusas a fim de destruir Uruk e a humanidade.
+Wedge of the Heavens - Eixo dos Céus
+ O título atribuído ao Gilgamesh por desejar o rompimento da dependência humana com os deuses.
+
+ Temple of Time - Templo do Tempo
+
+ Hornet - Vespa
+King Lear - Rei Lear
+ Personagem dos livros de Shakespeare.
+ice bitch queen - rainha piranha de gelo
+ Apelido "carinhoso" colocado na Salter pela Jalter.
+League of Phantom Fiends - Liga dos Fantasmas Diabólicos
+Napoleon of Crime - Napoleão do Crime
+ Um dos títulos de James Moriarty.
+Phantom Spirits - Espíritos Fantasmas
+ Os Espíritos que não chegam a se tornar Heroicos, mas aparecem em Shinjuku devido à natureza da Singularidade.
+Ruffian - Malfeitor
+Vile King - Rei Vil
+ O título de Vortigern, também citado na conjuração de Excalibur Morgan.
+
+ Nightless City - Cidade Inquieta
+ Resistance - Resistência
+
+ Curse of Annihilation - Praga da Aniquilação
+Heavenly Eye - Olho Celestial
+Heroic Spirit Swordmasters - Espíritos Heroicos Espadachins
+
+Ghoul - Carniçal
+Mist - Névoa
+Outer God - Deus Exterior
+Ringmaster - Mestre de Cerimônias
+Salem - Salém
+Single Horned Rhinoceros King - Rei Rinoceronte de um Único Chifre
+Witchfinder General - General Caçador de Bruxas
+
+Acting Director - Diretor(a) Interino(a)
+Adminstrative Advisor - conselheiro administrativo (Holmes)
+ Cargo que o Diretor Goredolf dá ao Sherlock, como seu braço direito.
+Alien God/Foreign God - Deus Estrangeiro
+ O ser extraterrestre responsável pelos acontecimentos do Arco 2.
+All-Terrain Void-Transporter, Shadow Border - Shadow Border, o Veículo Anfíbio, o Viajante do Vazio
+ O veículo que serve como base para os sobreviventes de Chaldea após os acontecimentos do Prólogo.
+Astromancy Department - Departamento de Astronomia (da Torre do Relógio)
+Bleached Earth - Terra Esbranquiçada
+ O estado atual da Terra após os acontecimentos do Prólogo.
+Botany Department - Departamento de Botânica (da Torre do Relógio)
+Evocation Department - Departamento de Invocações (da Torre do Relógio)
+Folklore Department - Departamento de Folclore (da Torre do Relógio)
+Proper Human History - História Humana Apropriada
+ O curso normal da humanidade, a história "correta" onde a humanidade segue próspera.
+Reality Space - Espaço Real
+ O lado do mundo em que habitamos. A realidade.
+Spirit Origin Graph - Diagrama de Origens Espirituais
+ A maleta criada pela Da Vinci que contém todos os dados sobre os Servos que invocamos durante o arco 1.
+Technical Advisor - conselheira técnica (a Da Vinci)
+ Cargo que o Diretor Goredolf dá à Da Vinci, como seu braço esquerdo.
+Void-Reality Observation Device, Paper Moon - Aparelho de Observação do Vazio, Paper Moon
+ O aparelho que possibilita os Saltos Zero do Shadow Border.
+Void Space - Espaço Vazio
+ O espaço composto por números imaginários num tecido diferente da realidade.
+Zero Sail - Salto Zero
+ O mecanismo empregado pelo Shadow Border para mergulhar no Espaço Vazio, possibilitando viagens pelo mesmo.
+
+ Calydonian Boar - Javali Calidônio
+ O javali que destruiu a região da Calidônia, que foi caçado por diversos heróis gregos na antiguidade, e que eventualmente foi derrotado por Atalante.
+Felling Theoretical Phenomenon - Fenômeno Teórico de Derrubada
+ O fenômeno de destruição da História Humana Apropriada liderado pelo Deus Estrangeiro.
+Foreign God Disciple(s) - Discípulo(s) do Deus Estrangeiro
+ Os Servos AlterEgo invocados pelo Deus Estrangeiro para que pudessem orquestrar sua descida dos céus.
+Foreign Pristess - Sacerdotisa Estrangeira
+ A sacerdotisa misteriosa que parece ter conexões com o Deus Estrangeiro.
+Grand Duchess (of the Beast Nation) - Grã-Duquesa (da Nação das Bestas)
+ O título de Anastasia no Lostbelt.
+Ivan the Terrible - Ivan, o Terrível
+ O Czar que governou a Rússia durante parte do Século XVI.
+Lostbelt King/Queen - Rei/Rainha do Lostbelt
+ O governante de um Lostbelt.
+Ortinax - Ortenaus
+ O exoesqueleto utilizado pela Mash para aumentar suas capacidades de batalha após os eventos de Solomon.
+Pruning Theorical Phenomenon - Fenômeno Teórico de Poda
+ O fenômeno que poda os "ramos" de linhas temporais onde a humanidade enfrenta um destino inviável.
+Sirius Light Command Spell - Selo de Comando da Luz de Sírius
+ Os Selos de Comando especiais dados ao Time A por Marisbury no começo da Grand Order, cujo potencial verdadeiro só é conhecido pelo mesmo e por Kirschtaria Wodime.
+Storm Wall - Muralha de Tempestades
+ As tempestades que cercam os Lostbelts.
+Tree of Emptiness - Árvore do Vazio
+ A árvore colossal que possibilita a existência dos Lostbelts no mundo real.
+Tsar - Czar
+ O título dado aos monarcas russos.
+
+Envoys - Emissárias
+ O título dado às Valquírias pela Scáthach-Skadi.
+(Fiery) King of Giants - Rei (Flamejante) dos Gigantes
+ O título de Surtr.
+Ollerus Boards - Pranchas de Ollerus
+ As pranchas de esquiar do Ortenaus.
+Ooh la la - Uh la lá
+Poetic Edda - Edda em verso
+ Uma coleção de poemas em nórdico antigo sobre diversos heróis e contos.
+Primordial Runes - Runas Primordiais
+ Runas especiais criadas por Odin, o Pai de Todos.
+Queen of Ice and Snow - Rainha do Gelo e da Neve
+ O título de Scáthach-Skadi.
+Spiritron hacker - Hacker de Spiritrons
+ Um mago capaz de utilizar magias que empregam Spiritrons como matéria-prima.
+Valkyrie(s) - Valquíria(s)
+ As filhas de Odin que conduziam bravos guerreiros mortos ao salão dos mortos, Valhalla.
+Völsunga Saga - Saga dos Volsungos
+ A saga lendária sobre o clã dos Volsungos, que inclui histórias sobre diversos heróis islandeses e nórdicos.
+
+ Child of Heaven - Criança Celestial
+ Título de Qin Shi Huang.
+Chronicle Theoretical Phenomenon - Fenômeno Teórico Crônico.
+Memory Partition - Partição de Memória
+ Habilidade da Sion de dividir sua memória e otimizar sua habilidade cognitiva, em conjunto da Aceleração de Pensamentos Paralelos.
+Most Glorious and Majestic Heavenly Emperor - Mais Glorioso e Majestoso Imperador Celestial
+ Outro título de Qin Shi Huang.
+Parallel Thought Acceleration - Aceleração de Pensamentos Paralelos
+ Habilidade da Sion de dividir sua memória e otimizar sua habilidade cognitiva, em conjunto da Partição de Memória.
+Spiritron Calculation Engine, Trismegistus II - Mecanismo de Cálculo de Spiritrons, Trismegistus II
+ O novo supercomputador que Sion construiu para substituir o Trismegistus original.
+Type (Profissão) - (Profissão) (Durante o LB3) / Nemo (Profissão) (Depois do LB4)
+ Os vários clones que Nemo cria para operar em seu navio.
+
+ God's Skyboulder - Rocha Divina
+ O cubo misterioso que reside ao sul do Lostbelt indiano. Os moradores o associam ao seu deus.
+Imaginary Aronnax Phantasm rigging - Armação Imaginária, Aronnax Phantasm
+ A armação que, quando implementada ao Shadow Border, cria o Storm Border ao final do capítulo.
+Ocean of Milk - Oceano de Leite
+ Kṣīra Sāgara, o oceano do néctar da vida eterna na mitologia hindu.
+Sacred Beasts - Bestas Sagradas
+ As bestas que dizem ser enviadas pelo deus do Lostbelt indiano para matar os Kalis nos yugas mais avançados.
+Void Cell - Célula Nula
+ Uma bateria criada pela Sion para prover energia ao ritual de invocação.
+
+ Aphrodite - Afrodite
+Apollo - Apolo
+Athena - Atena
+Atlas the World Tree - Atlas, a Árvore do Mundo
+ O nome da Árvore do Vazio do LB5.
+Demeter - Deméter
+Dionysius - Dionísio
+Hecate - Hécate
+Hephaestus - Hefesto
+Persephone - Perséfone
+Shooting Star Ortygia - Estrela Cadente Ortygia
+ Um laser destrutivo de Artemis.
+Xanthus - Xantos
+
+Altartown - Praça do Altar
+Chaos - Caos
+Cronus - Cronos
+Grand Summon Article - Artefato de Grã-Invocação
+Great Orbital Shrine - Grande Templo Orbital
+God Destroyer Alliance - Aliança Destruidora de Deuses
+ A aliança criada por alguns humanos do Olímpo e Servos da História Humana Apropriada para derrubar os deuses.
+Holy Progenitor - Santo Progenitor
+Holy Vessel Ring, Cronus Crown - Receptáculo Anelar Sagrado, Coroa de Cronos
+Machina Corridor - Corredor Machina
+Olympia Dodona - Dodona Olímpica
+Operation God Destroyer - Operação Destruidora de Deuses
+ A operação criada pela Aliança Destruidora de Deuses.
+Paradox Effector - Efetor de Paradoxo
+Prometheus - Prometeu
+Seven Link Heroic Spirit Cannon - Canhão dos Sete Elos de Espíritos Heroicos
+Statuetown - Praça da(s) Estátua(s)
+Stymphalides - Estínfalo
+
+Shielder/Saber/Archer/Lancer/Rider/Assassin/Caster/Berserker/Alter-Ego/Ruler/Avenger/Moon Cancer/Foreigner/Pretender/Beast
+As Classes dos Servos e inimigos do jogo.
+ Bunker Bolt
+ Crypter(s)
+Spoiler do Prólogo dos Lostbelts: Os sete membros da Equipe A que foram trazidos de volta à vida pelo Deus Estrangeiro, agora lutando contra a História Humana Apropriada para florescerem seus respectivos Lostbelts.
+ Grande Armée
+O lendário exército do Napoleão Bonaparte.
+ Grand Order (termo feminino)
+A operação que visa impedir a Incineração da Humanidade e corrigir as Singularidades.
+ Hassan-i Sabbah
+O nome dos dezenove líderes da ceita islâmica de assassinos, a Ordem dos Assassinos.
+ Hikikomori
+Termo japonês para pessoas que vivem isoladas, podendo ficar reclusas do mundo externo até por anos.
+ Klironomia
+Spoiler do LB5: Nanomáquinas derivadas da tecnologia e da Autoridade dos Deuses do Olimpo.
+ Lostbelt (termo masculino)
+Spoiler do Prólogo dos Lostbelts: Linhas temporais excluídas do multiverso por serem inapropriadas para o futuro da humanidade, mas que foram trazidas de volta pelas ações do Deus Estrangeiro.
+ Moon Cell (termo masculino)
+Um supercomputador criado há bilhões de anos na Lua que armazenou todas as informações que transcorreram na Terra desde sua criação.
+ NEET
+"Not in Education, Employment or Training." Uma pessoa que não frequenta a escola, não está em treinamento para nada, nem trabalha. 
+Onmyouji
+Um praticante de Onmyoudou, uma mistura de ciência natural e ocultismo tradicional do Japão.
+ Spiritron
+A "verdadeira essência" de uma alma.
+ Yuga
+Ciclos do Manvantara que indicam a idade do universo.
