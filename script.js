@@ -142,7 +142,6 @@ function createButton(type) {
             button.style.opacity = 0.25;
             removeFromArray(clickedButtons, type);
         }
-        console.log(clickedButtons);
         reloadGlossary(button.type);
     }
     button.innerText = type.toUpperCase();
