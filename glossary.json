@@ -649,6 +649,96 @@
             "type": "skills"
         },
         {
+            "englishWord": "Shielder",
+            "portugueseWord": "Shielder",
+            "description": "As Classes dos Servos e inimigos do jogo permanecem em inglês.",
+            "type": "class"
+        },
+        {
+            "englishWord": "Saber",
+            "portugueseWord": "Saber",
+            "description": "As Classes dos Servos e inimigos do jogo permanecem em inglês.",
+            "type": "class"
+        },
+        {
+            "englishWord": "Archer",
+            "portugueseWord": "Archer",
+            "description": "As Classes dos Servos e inimigos do jogo permanecem em inglês.",
+            "type": "class"
+        },
+        {
+            "englishWord": "Lancer",
+            "portugueseWord": "Lancer",
+            "description": "As Classes dos Servos e inimigos do jogo permanecem em inglês.",
+            "type": "class"
+        },
+        {
+            "englishWord": "Rider",
+            "portugueseWord": "Rider",
+            "description": "As Classes dos Servos e inimigos do jogo permanecem em inglês.",
+            "type": "class"
+        },
+        {
+            "englishWord": "Assassin",
+            "portugueseWord": "Assassin",
+            "description": "As Classes dos Servos e inimigos do jogo permanecem em inglês.",
+            "type": "class"
+        },
+        {
+            "englishWord": "Caster",
+            "portugueseWord": "Caster",
+            "description": "As Classes dos Servos e inimigos do jogo permanecem em inglês.",
+            "type": "class"
+        },
+        {
+            "englishWord": "Berserker",
+            "portugueseWord": "Berserker",
+            "description": "As Classes dos Servos e inimigos do jogo permanecem em inglês.",
+            "type": "class"
+        },
+        {
+            "englishWord": "Alter-Ego",
+            "portugueseWord": "Alter-Ego",
+            "description": "As Classes dos Servos e inimigos do jogo permanecem em inglês.",
+            "type": "class"
+        },
+        {
+            "englishWord": "Ruler",
+            "portugueseWord": "Ruler",
+            "description": "As Classes dos Servos e inimigos do jogo permanecem em inglês.",
+            "type": "class"
+        },
+        {
+            "englishWord": "Avenger",
+            "portugueseWord": "Avenger",
+            "description": "As Classes dos Servos e inimigos do jogo permanecem em inglês.",
+            "type": "class"
+        },
+        {
+            "englishWord": "Moon Cancer",
+            "portugueseWord": "Moon Cancer",
+            "description": "As Classes dos Servos e inimigos do jogo permanecem em inglês.",
+            "type": "class"
+        },
+        {
+            "englishWord": "Foreigner",
+            "portugueseWord": "Foreigner",
+            "description": "As Classes dos Servos e inimigos do jogo permanecem em inglês.",
+            "type": "class"
+        },
+        {
+            "englishWord": "Pretender",
+            "portugueseWord": "Pretender",
+            "description": "As Classes dos Servos e inimigos do jogo permanecem em inglês.",
+            "type": "class"
+        },
+        {
+            "englishWord": "Beast",
+            "portugueseWord": "Beast",
+            "description": "As Classes dos Servos e inimigos do jogo permanecem em inglês.",
+            "type": "class"
+        },
+        {
             "englishWord": "Phenomenon Recording Cyber Daemon Laplace",
             "portugueseWord": "Serviço Cibernético de Observação Laplace",
             "description": "O sistema que guarda todos os dados observados do passado pelas Lentes SHEBA",
@@ -1571,96 +1661,6 @@
             "portugueseWord": "Guerra Imperial do Santo Graal",
             "description": "",
             "type": "heian-kyo"
-        },
-        {
-            "englishWord": "Shielder",
-            "portugueseWord": "Shielder",
-            "description": "As Classes dos Servos e inimigos do jogo permanecem em inglês.",
-            "type": "class"
-        },
-        {
-            "englishWord": "Saber",
-            "portugueseWord": "Saber",
-            "description": "As Classes dos Servos e inimigos do jogo permanecem em inglês.",
-            "type": "class"
-        },
-        {
-            "englishWord": "Archer",
-            "portugueseWord": "Archer",
-            "description": "As Classes dos Servos e inimigos do jogo permanecem em inglês.",
-            "type": "class"
-        },
-        {
-            "englishWord": "Lancer",
-            "portugueseWord": "Lancer",
-            "description": "As Classes dos Servos e inimigos do jogo permanecem em inglês.",
-            "type": "class"
-        },
-        {
-            "englishWord": "Rider",
-            "portugueseWord": "Rider",
-            "description": "As Classes dos Servos e inimigos do jogo permanecem em inglês.",
-            "type": "class"
-        },
-        {
-            "englishWord": "Assassin",
-            "portugueseWord": "Assassin",
-            "description": "As Classes dos Servos e inimigos do jogo permanecem em inglês.",
-            "type": "class"
-        },
-        {
-            "englishWord": "Caster",
-            "portugueseWord": "Caster",
-            "description": "As Classes dos Servos e inimigos do jogo permanecem em inglês.",
-            "type": "class"
-        },
-        {
-            "englishWord": "Berserker",
-            "portugueseWord": "Berserker",
-            "description": "As Classes dos Servos e inimigos do jogo permanecem em inglês.",
-            "type": "class"
-        },
-        {
-            "englishWord": "Alter-Ego",
-            "portugueseWord": "Alter-Ego",
-            "description": "As Classes dos Servos e inimigos do jogo permanecem em inglês.",
-            "type": "class"
-        },
-        {
-            "englishWord": "Ruler",
-            "portugueseWord": "Ruler",
-            "description": "As Classes dos Servos e inimigos do jogo permanecem em inglês.",
-            "type": "class"
-        },
-        {
-            "englishWord": "Avenger",
-            "portugueseWord": "Avenger",
-            "description": "As Classes dos Servos e inimigos do jogo permanecem em inglês.",
-            "type": "class"
-        },
-        {
-            "englishWord": "Moon Cancer",
-            "portugueseWord": "Moon Cancer",
-            "description": "As Classes dos Servos e inimigos do jogo permanecem em inglês.",
-            "type": "class"
-        },
-        {
-            "englishWord": "Foreigner",
-            "portugueseWord": "Foreigner",
-            "description": "As Classes dos Servos e inimigos do jogo permanecem em inglês.",
-            "type": "class"
-        },
-        {
-            "englishWord": "Pretender",
-            "portugueseWord": "Pretender",
-            "description": "As Classes dos Servos e inimigos do jogo permanecem em inglês.",
-            "type": "class"
-        },
-        {
-            "englishWord": "Beast",
-            "portugueseWord": "Beast",
-            "description": "As Classes dos Servos e inimigos do jogo permanecem em inglês.",
-            "type": "class"
         },
         {
             "englishWord": "Bunker Bolt",
