@@ -667,6 +667,24 @@
             "type": "okeanos"
         },
         {
+            "englishWord": "Automata",
+            "portugueseWord": "Autômato",
+            "description": " Um manequim animado. ",
+            "type": "london"
+        },
+        {
+            "englishWord": "Project Demonic Fog",
+            "portugueseWord": "Projeto Névoa Demoníaca",
+            "description": " O projeto que visa destruir a cidade de Londres, e então toda a Inglaterra. ",
+            "type": "london"
+        },
+        {
+            "englishWord": "Treacherous Knight",
+            "portugueseWord": "Cavaleiro da Traição",
+            "description": " O título da Mordred por trair Camelot nas lendas.",
+            "type": "london"
+        },
+        {
             "englishWord": "Hero of Benefaction",
             "portugueseWord": "Herói da Caridade",
             "description": "Título do Karna por ser extremamente caridoso nas lendas. ",
