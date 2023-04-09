@@ -4,10 +4,12 @@ body {
     color: rgb(250, 250, 250);
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
+
 .content-div {
     max-width: 60%;
     margin: auto;
 }
+
 .header {
     padding-top: 1em;
     text-align: center;
@@ -46,6 +48,7 @@ body {
     font-size: 1.1em;
     height: 240px;
 }
+
 #term p,
 #term h2,
 #term h4 {
@@ -63,6 +66,7 @@ body {
 #term #singularity {
     background-color: inherit;
 }
+
 #filter-buttons {
     background-image: url('img/filterBG.jpg');
     background-position: center;
@@ -75,6 +79,7 @@ body {
     border-radius: 10px;
     padding: 1em;
 }
+
 #filter-buttons button {
     max-width: 200px;
     width: 180px;
@@ -87,23 +92,27 @@ body {
     cursor: pointer;
     margin: 10px 10px;
 }
+
 #filter-buttons button:hover {
     transition: .5s;
     font-weight: bold;
     font-size: 1.1em;
 }
+
 #back-to-top {
-    
+
     width: 100px;
     position: fixed;
     bottom: 50px;
-    right: 50px;
+    left: 50px;
     cursor: pointer;
 }
+
 #back-to-top:hover {
     transition: .5s;
     width: 120px;
 }
+
 footer {
     text-align: center;
     margin-top: 50px;
@@ -115,4 +124,41 @@ footer {
 
 footer svg {
     margin-top: 10px;
+}
+
+@media(max-width: 768px) {
+    body {
+        text-align: center;
+        margin: auto;
+    }
+    .content-div {
+        text-align: center;
+        margin: auto;
+        max-width: 100%;
+    }
+    #term {
+        margin: auto;
+        border-bottom: 2px solid black;
+        font-size: 1.1em;
+        height: auto;
+    }
+    #term p,
+    #term h2,
+    #term h4 {
+        max-width: max-content;
+        background-color: rgb(5, 5, 5);
+        padding: 5px 10px;
+        border-radius: 5px;
+    }
+    #back-to-top {
+        width: 60px;
+        position: fixed;
+        bottom: 10px;
+        left: 10px;
+        cursor: pointer;
+    }
+    #back-to-top:hover {
+        transition: .5s;
+        width: 60px;
+    }
 }
