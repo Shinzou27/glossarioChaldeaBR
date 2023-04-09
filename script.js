@@ -7,10 +7,11 @@ const backToTopButton = document.getElementById('back-to-top');
 
 import glossary from './glossary.json' assert {type: 'json'}
 import colors from './colors.json' assert {type: 'json'}
-const singularities = [];
+const termTypes = [];
+const notSingularity = ['general', 'skills', 'untranslated', 'attributes', 'bestiary', 'class'];
 glossary.words.forEach((item) => {
-    if (!singularities.includes(item.type)) {
-        singularities.push(item.type);
+    if (!termTypes.includes(item.type)) {
+        termTypes.push(item.type);
     }
 })
 
@@ -29,12 +30,12 @@ let clickedButtons = [];
 document.body.onload = () => {
     image.src = 'img/header.png';
     words.forEach((element) => {
-        if (!singularities.includes(element.type)) {
-            singularities.push(element.type);
+        if (!termTypes.includes(element.type)) {
+            termTypes.push(element.type);
         }
         createElements(element)
     });
-    singularities.forEach((element) => {
+    termTypes.forEach((element) => {
         createButton(element);
         clickedButtons.push(element)
     })
@@ -50,12 +51,12 @@ image.onclick = () => {
 }
 redefineButton.onclick = () => {
     clickedButtons = [];
-    singularities.forEach((element) => clickedButtons.push(element));
+    termTypes.forEach((element) => clickedButtons.push(element));
     let counter = 0;
     buttonDiv.childNodes.forEach((node) => {
         counter++;
         if (counter >= 4) {
-            const index = singularities.indexOf(node.innerHTML.toLowerCase());
+            const index = termTypes.indexOf(node.innerHTML.toLowerCase());
             node.style.backgroundColor = colors[index].bg;
             node.style.color = colors[index].txt;
             node.style.opacity = 1;
@@ -82,7 +83,7 @@ function createElements(object) {
     const portuguese = document.createElement('h4');
     const description = document.createElement('p');
     const styles = innerDiv.style;
-    if (['general', 'skills', 'untranslated'].includes(object.type)) {
+    if (notSingularity.includes(object.type)) {
         styles.backgroundImage = 'url(img/default.png)';
     } else {
         styles.backgroundImage = 'url(img/' + object.type + '.png)';
@@ -102,7 +103,7 @@ function createElements(object) {
     innerDiv.appendChild(english);
     innerDiv.appendChild(portuguese);
     innerDiv.appendChild(description);
-    if (object.type != "general" && object.type != "untranslated" && object.type != "skills") {
+    if (!notSingularity.includes(object.type)) {
         const singularity = document.createElement('p');
         singularity.id = "singularity";
         singularity.innerText = "Aparece em: " + capitalizeFirstLetter(object.type);
@@ -125,7 +126,7 @@ inputSearch.oninput = () => {
 }
 function createButton(type) {
     const button = document.createElement('button');
-    const index = singularities.indexOf(type);
+    const index = termTypes.indexOf(type);
     button.type = "button";
     button.id = "button";
     button.style.backgroundColor = colors[index].bg;
