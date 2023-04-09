@@ -64,7 +64,7 @@ body {
     background-color: inherit;
 }
 #filter-buttons {
-    background-image: url('bg03.jpg');
+    background-image: url('img/filterBG.jpg');
     background-position: center;
     background-size: cover;
     background-position-y: -100px;
