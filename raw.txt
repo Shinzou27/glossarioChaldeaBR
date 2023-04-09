@@ -109,6 +109,22 @@ Os líderes dos doze departamentos da Torre do Relógio.
  Wandering Sea - Mar Errante
 Uma das ramificações da Associação dos Magos. Seus magos preferem se isolar do mundo moderno. Também conhecido como "Baldanders."
 
+ ;Man - Humano;
+Heróis de natureza comum que conquistaram grandes feitos.
+ ;Earth - Terra;
+Heróis de mitos e lendas fantasiosos.
+ ;Heaven - Céus;
+Heróis que possuem grande nível de divindade.
+ ;Star - Estrela;
+Heróis que mudaram o curso da história da humanidade.
+
+;Chimera - Quimera; (termo feminino)
+ D'yavol tron ;(termo feminino);
+ Helter Skelter ;(termo masculino);
+ Kali(s) ;(termo masculino);
+ Lamia ;(termo feminino);
+ Wyvern ;(termo masculino);
+
 Amalgam Goad - Amálgama de Incitações
 Authority - Autoridade
 Avenger - Avenger (passiva da Classe)
