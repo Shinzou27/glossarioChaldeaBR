@@ -3,13 +3,13 @@
         {
             "englishWord": "Age of Gods",
             "portugueseWord": "Era dos Deuses",
-            "description": "A era em que deuses coexistiam com humanos e a atmosfera era repleta de energia mágica e de Mistérios. ",
+            "description": "A era em que deuses coexistiam com humanos e a atmosfera era repleta de energia mágica e de Mistérios.",
             "type": "general"
         },
         {
             "englishWord": "Age of Humans",
             "portugueseWord": "Era dos Humanos",
-            "description": "A era que sucede a dos Deuses. Os humanos agora vivem por conta própria, sem a influência divina. ",
+            "description": "A era que sucede a dos Deuses. Os humanos agora vivem por conta própria, sem a influência divina.",
             "type": "general"
         },
         {
@@ -21,55 +21,55 @@
         {
             "englishWord": "Bounded Field",
             "portugueseWord": "Campo Limitado",
-            "description": "É um tipo de magia que cria uma barreira em uma área específica. ",
+            "description": "É um tipo de magia que cria uma barreira em uma área específica.",
             "type": "general"
         },
         {
             "englishWord": "Central Command Room",
             "portugueseWord": "Sala de Controle Central",
-            "description": "A Sala de Controle de Chaldea. ",
+            "description": "A Sala de Controle de Chaldea.",
             "type": "general"
         },
         {
             "englishWord": "Chaldea Security Organization",
             "portugueseWord": "Organização de Segurança Chaldea",
-            "description": "A organização responsável por proteger o futuro da humanidade dos perigos observados pelas Lentes Sheba. ",
+            "description": "A organização responsável por proteger o futuro da humanidade dos perigos observados pelas Lentes Sheba.",
             "type": "general"
         },
         {
             "englishWord": "Clock Tower",
             "portugueseWord": "Torre do Relógio",
-            "description": "Uma das ramificações da Associação dos Magos, e sua sede. É dividida em doze Departamentos focados em tipos específicos de magia. ",
+            "description": "Uma das ramificações da Associação dos Magos, e sua sede. É dividida em doze Departamentos focados em tipos específicos de magia.",
             "type": "general"
         },
         {
             "englishWord": "Command Spell(s)",
             "portugueseWord": "Selo(s) de Comando",
-            "description": "Os Selos concedidos pelo Graal a Mestres em uma Guerra do Santo Graal. ",
+            "description": "Os Selos concedidos pelo Graal a Mestres em uma Guerra do Santo Graal.",
             "type": "general"
         },
         {
             "englishWord": "Crown Prince",
             "portugueseWord": "Príncipe Herdeiro",
-            "description": "O título de Nezha. ",
+            "description": "O título de Nezha.",
             "type": "general"
         },
         {
             "englishWord": "Counter Force",
             "portugueseWord": "Força de Contenção",
-            "description": "O mecanismo inato do planeta para proteção da humanidade, invocando Espíritos Heroicos e Guardiões da Counter Force. ",
+            "description": "O mecanismo inato do planeta para proteção da humanidade, invocando Espíritos Heroicos e Guardiões da Counter Force.",
             "type": "general"
         },
         {
             "englishWord": "Dead Apostle",
             "portugueseWord": "Apóstolo Morto",
-            "description": "Um humano que se tornou um vampiro por meio de outro vampiro ou por magia. ",
+            "description": "Um humano que se tornou um vampiro por meio de outro vampiro ou por magia.",
             "type": "general"
         },
         {
             "englishWord": "Demi-Servant",
             "portugueseWord": "Semi-Servo",
-            "description": "Um humano que adquiriu o Saint Graph de um Espírito Heroico. ",
+            "description": "Um humano que adquiriu o Saint Graph de um Espírito Heroico.",
             "type": "general"
         },
         {
@@ -93,13 +93,13 @@
         {
             "englishWord": "Divine Construct",
             "portugueseWord": "Construto Divino",
-            "description": "Uma arma ou armadura forjada por deuses. ",
+            "description": "Uma arma ou armadura forjada por deuses.",
             "type": "general"
         },
         {
             "englishWord": "Divine Spirit",
             "portugueseWord": "Espírito Divino",
-            "description": "Um espírito num nível próximo de um deus. ",
+            "description": "Um espírito num nível próximo de um deus.",
             "type": "general"
         },
         {
@@ -111,109 +111,109 @@
         {
             "englishWord": "Foundation of Humanity",
             "portugueseWord": "Fundação da Humanidade",
-            "description": "A ordem de relevância de um acontecimento para a história humana. ",
+            "description": "A ordem de relevância de um acontecimento para a história humana.",
             "type": "general"
         },
         {
             "englishWord": "Global Enviroment Model, Chaldeas",
             "portugueseWord": "Maquete do Ambiente Global, Chaldeas",
-            "description": "A maquete que replica a condição atual do planeta com a assistência das Lentes Sheba, podendo observar também até 100 anos no futuro. ",
+            "description": "A maquete que replica a condição atual do planeta com a assistência das Lentes Sheba, podendo observar também até 100 anos no futuro.",
             "type": "general"
         },
         {
             "englishWord": "Greater Grail",
             "portugueseWord": "Graal Maior",
-            "description": "O corpo real do Graal realizador de desejos. ",
+            "description": "O corpo real do Graal realizador de desejos.",
             "type": "general"
         },
         {
             "englishWord": "Heroic Spirit",
             "portugueseWord": "Espírito Heroico",
-            "description": "Uma figura, histórica ou fictícia, marcada na história pelos seus grandes feitos. ",
+            "description": "Uma figura, histórica ou fictícia, marcada na história pelos seus grandes feitos.",
             "type": "general"
         },
         {
             "englishWord": "High Servant",
             "portugueseWord": "Servo Composto",
-            "description": "Um Servo anômalo composto por fragmentos de diferentes divindades e Espíritos Heroicos. ",
+            "description": "Um Servo anômalo composto por fragmentos de diferentes divindades e Espíritos Heroicos.",
             "type": "general"
         },
         {
             "englishWord": "Holy Church",
             "portugueseWord": "Santa Igreja",
-            "description": "A Igreja que lida com diversos assuntos do mundo mágico, além de supervisionar as Guerras do Santo Graal. ",
+            "description": "A Igreja que lida com diversos assuntos do mundo mágico, além de supervisionar as Guerras do Santo Graal.",
             "type": "general"
         },
         {
             "englishWord": "Holy Grail",
             "portugueseWord": "Santo Graal",
-            "description": "O Santo Graal realizador de desejos. ",
+            "description": "O Santo Graal realizador de desejos.",
             "type": "general"
         },
         {
             "englishWord": "Homunculus(li)",
             "portugueseWord": "Homúnculo(s)",
-            "description": "Seres artificiais criados com altos níveis de circuitos mágicos de alta qualidade. ",
+            "description": "Seres artificiais criados com altos níveis de circuitos mágicos de alta qualidade.",
             "type": "general"
         },
         {
             "englishWord": "Irelands Child of Light",
             "portugueseWord": "Filho da Luz da Irlanda",
-            "description": "Título do Cú Chulainn. ",
+            "description": "Título do Cú Chulainn.",
             "type": "general"
         },
         {
             "englishWord": "King of Heroes",
             "portugueseWord": "Rei dos Heróis",
-            "description": "Título do Gilgamesh. ",
+            "description": "Título do Gilgamesh.",
             "type": "general"
         },
         {
             "englishWord": "King of Knights",
             "portugueseWord": "Rei dos Cavaleiros",
-            "description": "Título da Arthuria Pendragon e do Arthur Pendragon. ",
+            "description": "Título da Arthuria Pendragon e do Arthur Pendragon.",
             "type": "general"
         },
         {
             "englishWord": "Leyline",
             "portugueseWord": "Linha ley",
-            "description": "Locais do planeta com grandes quantias de fluxo de energia mágica. ",
+            "description": "Locais do planeta com grandes quantias de fluxo de energia mágica.",
             "type": "general"
         },
         {
             "englishWord": "Lesser Grail",
             "portugueseWord": "Graal Menor",
-            "description": "O recipiente que se assemelha a um Graal, um receptáculo ligado ao Graal Maior. ",
+            "description": "O recipiente que se assemelha a um Graal, um receptáculo ligado ao Graal Maior.",
             "type": "general"
         },
         {
             "englishWord": "Mages Association",
             "portugueseWord": "Associação dos Magos",
-            "description": "A instituição que rege as regras da sociedade dos magos. ",
+            "description": "A instituição que rege as regras da sociedade dos magos.",
             "type": "general"
         },
         {
             "englishWord": "Magecraft",
             "portugueseWord": "Magia",
-            "description": "Os métodos humanos de recriar Mistérios, executando feitiços normalmente vistos como sobrenaturais. ",
+            "description": "Os métodos humanos de recriar Mistérios, executando feitiços normalmente vistos como sobrenaturais.",
             "type": "general"
         },
         {
             "englishWord": "True Magic",
             "portugueseWord": "Magia Verdadeira",
-            "description": "São os feitiços classificados como \"milagres\" e \"impossíveis\". Sua existência é um perigo aos olhos da Counter Force. Existem apenas cinco, por enquanto. ",
+            "description": "São os feitiços classificados como \"milagres\" e \"impossíveis\". Sua existência é um perigo aos olhos da Counter Force. Existem apenas cinco, por enquanto.",
             "type": "general"
         },
         {
             "englishWord": "Magic Circuit(s)",
             "portugueseWord": "Circuito(s) Mágico(s)",
-            "description": "Uma parte do sistema nervoso por onde flui energia mágica no corpo de um mago. Quanto mais circuitos mágicos de boa qualidade, melhor é o mago. ",
+            "description": "Uma parte do sistema nervoso por onde flui energia mágica no corpo de um mago. Quanto mais circuitos mágicos de boa qualidade, melhor é o mago.",
             "type": "general"
         },
         {
             "englishWord": "Magic Crest",
             "portugueseWord": "Brasão Mágico",
-            "description": "O brasão composto por circuitos mágicos de geração em geração numa linhagem de magos, e que guarda informações sobre os feitiços masterizados pela mesma. ",
+            "description": "O brasão composto por circuitos mágicos de geração em geração numa linhagem de magos, e que guarda informações sobre os feitiços masterizados pela mesma.",
             "type": "general"
         },
         {
@@ -225,13 +225,13 @@
         {
             "englishWord": "Mystic Code",
             "portugueseWord": "Artefato Místico",
-            "description": "São criações mágicas com o objetivo de aprimorar feitiços do mago usuário ou executar feitiços próprios. ",
+            "description": "São criações mágicas com o objetivo de aprimorar feitiços do mago usuário ou executar feitiços próprios.",
             "type": "general"
         },
         {
             "englishWord": "Mystic Eyes",
             "portugueseWord": "Olhos Místicos",
-            "description": "Olhos que possuem habilidades mágicas sobrenaturais. ",
+            "description": "Olhos que possuem habilidades mágicas sobrenaturais.",
             "type": "general"
         },
         {
@@ -249,31 +249,31 @@
         {
             "englishWord": "Mystics",
             "portugueseWord": "Mistérios",
-            "description": "Tudo aquilo que é sobrenatural ou de origem divina. A queda da Era dos Deuses e o advento da tecnologia moderna diminuíram consideravelmente o poder e a quantidade dos Mistérios. ",
+            "description": "Tudo aquilo que é sobrenatural ou de origem divina. A queda da Era dos Deuses e o advento da tecnologia moderna diminuíram consideravelmente o poder e a quantidade dos Mistérios.",
             "type": "general"
         },
         {
             "englishWord": "Near-Future Observation Lens, Sheba",
             "portugueseWord": "Lentes de Observação do Futuro Próximo, Sheba",
-            "description": "Um mecanismo que permite a observação detalhada de eventos do presente, podendo também observar o passado e o futuro com menor precisão e estabilidade. ",
+            "description": "Um mecanismo que permite a observação detalhada de eventos do presente, podendo também observar o passado e o futuro com menor precisão e estabilidade.",
             "type": "general"
         },
         {
             "englishWord": "Noble Phantasm",
             "portugueseWord": "Fantasma Nobre",
-            "description": "A sublimação da lenda de um Espírito Heroico em um artefato ou arma. A marca registrada de um Herói. ",
+            "description": "A sublimação da lenda de um Espírito Heroico em um artefato ou arma. A marca registrada de um Herói.",
             "type": "general"
         },
         {
             "englishWord": "Phantasmal Species",
             "portugueseWord": "Espécies Fantasmais",
-            "description": "Todas as espécies sobrenaturais do mundo. ",
+            "description": "Todas as espécies sobrenaturais do mundo.",
             "type": "general"
         },
         {
             "englishWord": "Reality Marble",
             "portugueseWord": "Projeção de Realidade",
-            "description": "O tipo supremo de Campo Limitado, onde o usuário projeta seu mundo interno sobre o mundo externo, temporariamente reescrevendo a textura do mundo. ",
+            "description": "O tipo supremo de Campo Limitado, onde o usuário projeta seu mundo interno sobre o mundo externo, temporariamente reescrevendo a textura do mundo.",
             "type": "general"
         },
         {
@@ -285,31 +285,31 @@
         {
             "englishWord": "Saint Graph/Spirit Origin",
             "portugueseWord": "Origem Espiritual",
-            "description": "É a fundação da formação do corpo de um Servo. ",
+            "description": "É a fundação da formação do corpo de um Servo.",
             "type": "general"
         },
         {
             "englishWord": "Santa Servant",
             "portugueseWord": "Servo Noel",
-            "description": "Um Servo afetado pela febre do Natal. ",
+            "description": "Um Servo afetado pela febre do Natal.",
             "type": "general"
         },
         {
             "englishWord": "Shadow Servant",
             "portugueseWord": "Servo Sombrio",
-            "description": "Um Servo incompleto, degradado, ou falso. ",
+            "description": "Um Servo incompleto, degradado, ou falso.",
             "type": "general"
         },
         {
             "englishWord": "Spirit Core/Spiritual Core",
             "portugueseWord": "Núcleo Espiritual",
-            "description": "O núcleo da existência de um Servo. Contanto que ele esteja intacto, o Servo continuará vivo. ",
+            "description": "O núcleo da existência de um Servo. Contanto que ele esteja intacto, o Servo continuará vivo.",
             "type": "general"
         },
         {
             "englishWord": "Spiritron Calculation Engine, Trismegistus",
             "portugueseWord": "Mecanismo de Cálculos de Spiritron, Trismegistus",
-            "description": "Um supercomputador dado à Chaldea pelo Instituto Atlas. Por meio de cálculos mágicos, ele pode provar a existência de um Mestre independente de que momento na história ele existiu ou existirá. ",
+            "description": "Um supercomputador dado à Chaldea pelo Instituto Atlas. Por meio de cálculos mágicos, ele pode provar a existência de um Mestre independente de que momento na história ele existiu ou existirá.",
             "type": "general"
         },
         {
@@ -321,31 +321,31 @@
         {
             "englishWord": "Stray Servant",
             "portugueseWord": "Servo Errante",
-            "description": "Um Servo invocado pelo Graal sem possuir um Mestre. ",
+            "description": "Um Servo invocado pelo Graal sem possuir um Mestre.",
             "type": "general"
         },
         {
             "englishWord": "Team A",
             "portugueseWord": "Equipe A",
-            "description": "Os sete magos mais capacitados contratados por Marisbury em Chaldea. No começo da história, eles são colocados em cápsulas para serem preservados após a explosão da Sala de Controle. ",
+            "description": "Os sete magos mais capacitados contratados por Marisbury em Chaldea. No começo da história, eles são colocados em cápsulas para serem preservados após a explosão da Sala de Controle.",
             "type": "general"
         },
         {
             "englishWord": "True Ancestor(s)",
             "portugueseWord": "Ancestral(is) Original(is)",
-            "description": "Vampiros naturais, criados pela própria natureza. Os vampiros originais. ",
+            "description": "Vampiros naturais, criados pela própria natureza. Os vampiros originais.",
             "type": "general"
         },
         {
             "englishWord": "True Name",
             "portugueseWord": "Nome Verdadeiro",
-            "description": "O Nome Verdadeiro de um Servo. ",
+            "description": "O Nome Verdadeiro de um Servo.",
             "type": "general"
         },
         {
             "englishWord": "Twelve Lords",
             "portugueseWord": "Doze Lordes",
-            "description": "Os líderes dos doze departamentos da Torre do Relógio. ",
+            "description": "Os líderes dos doze departamentos da Torre do Relógio.",
             "type": "general"
         },
         {
@@ -359,6 +359,66 @@
             "portugueseWord": "Mar Errante",
             "description": "Uma das ramificações da Associação dos Magos. Seus magos preferem se isolar do mundo moderno. Também conhecido como \"Baldanders.\"",
             "type": "general"
+        },
+        {
+            "englishWord": "Man",
+            "portugueseWord": "Humano",
+            "description": "Heróis de natureza comum que conquistaram grandes feitos.",
+            "type": "attributes"
+        },
+        {
+            "englishWord": "Earth",
+            "portugueseWord": "Terra",
+            "description": "Heróis de mitos e lendas fantasiosos.",
+            "type": "attributes"
+        },
+        {
+            "englishWord": "Heaven",
+            "portugueseWord": "Céus",
+            "description": "Heróis que possuem grande nível de divindade.",
+            "type": "attributes"
+        },
+        {
+            "englishWord": "Star",
+            "portugueseWord": "Estrela",
+            "description": "Heróis que mudaram o curso da história da humanidade.",
+            "type": "attributes"
+        },
+        {
+            "englishWord": "D'yavol tron",
+            "portugueseWord": "D'yavol tron",
+            "description": "(termo feminino)",
+            "type": "bestiary"
+        },
+        {
+            "englishWord": "Helter Skelter",
+            "portugueseWord": "Helter Skelter",
+            "description": "(termo masculino)",
+            "type": "bestiary"
+        },
+        {
+            "englishWord": "Kali(s)",
+            "portugueseWord": "Kali(s)",
+            "description": "(termo masculino)",
+            "type": "bestiary"
+        },
+        {
+            "englishWord": "Lamia",
+            "portugueseWord": "Lamia",
+            "description": "(termo feminino)",
+            "type": "bestiary"
+        },
+        {
+            "englishWord": "Wyvern",
+            "portugueseWord": "Wyvern",
+            "description": "(termo masculino)",
+            "type": "bestiary"
+        },
+        {
+            "englishWord": "Chimera",
+            "portugueseWord": "Quimera",
+            "description": "(termo feminino)",
+            "type": "bestiary"
         },
         {
             "englishWord": "Amalgam Goad",
@@ -591,31 +651,31 @@
         {
             "englishWord": "Phenomenon Recording Cyber Daemon Laplace",
             "portugueseWord": "Serviço Cibernético de Observação Laplace",
-            "description": "O sistema que guarda todos os dados observados do passado pelas Lentes SHEBA ",
+            "description": "O sistema que guarda todos os dados observados do passado pelas Lentes SHEBA",
             "type": "fuyuki"
         },
         {
             "englishWord": "Heroic Spirit Summoning System FATE",
             "portugueseWord": "Sistema 'FATE' de Invocação de Espíritos Heroicos",
-            "description": "O sistema empregado por Chaldea para conduzir invocações de Servos. ",
+            "description": "O sistema empregado por Chaldea para conduzir invocações de Servos.",
             "type": "fuyuki"
         },
         {
             "englishWord": "Klein Coffins",
             "portugueseWord": "Cápsulas Klein",
-            "description": "As cápsulas utilizadas para o processo de transformação de matéria em Spiritrons para o Rayshift. ",
+            "description": "As cápsulas utilizadas para o processo de transformação de matéria em Spiritrons para o Rayshift.",
             "type": "fuyuki"
         },
         {
             "englishWord": "Lev/Leff Lainur",
             "portugueseWord": "Lev Lainur",
-            "description": "O professor que inventou as Lentes SHEBA e auxilia Chaldea desde sua concepção. ",
+            "description": "O professor que inventou as Lentes SHEBA e auxilia Chaldea desde sua concepção.",
             "type": "fuyuki"
         },
         {
             "englishWord": "Master Candidate #48",
             "portugueseWord": "Candidato(a) a Mestre N° 48",
-            "description": "Você, o jogador. O último dos candidatos a se inscrever no projeto. ",
+            "description": "Você, o jogador. O último dos candidatos a se inscrever no projeto.",
             "type": "fuyuki"
         },
         {
@@ -627,7 +687,7 @@
         {
             "englishWord": "Dragon Witch",
             "portugueseWord": "Bruxa dos Dragões",
-            "description": "Título da Jeanne d'Arc que comanda os dragões na singularidade. ",
+            "description": "Título da Jeanne d'Arc que comanda os dragões na singularidade.",
             "type": "orleans"
         },
         {
@@ -639,13 +699,13 @@
         {
             "englishWord": "Flying General",
             "portugueseWord": "General Voador",
-            "description": "Título do Lu Bu Fengxian. ",
+            "description": "Título do Lu Bu Fengxian.",
             "type": "septem"
         },
         {
             "englishWord": "Holy Ancestor/Divine Ancestor",
             "portugueseWord": "Ancestral Divino",
-            "description": "O título do Romulus, como o progenitor da dinastia romana. ",
+            "description": "O título do Romulus, como o progenitor da dinastia romana.",
             "type": "septem"
         },
         {
@@ -657,7 +717,7 @@
         {
             "englishWord": "Age of Exploration",
             "portugueseWord": "Era das Grandes Navegações",
-            "description": "A era da Expansão Marítima dos séculos XV e XVI. ",
+            "description": "A era da Expansão Marítima dos séculos XV e XVI.",
             "type": "okeanos"
         },
         {
@@ -669,54 +729,54 @@
         {
             "englishWord": "Automata",
             "portugueseWord": "Autômato",
-            "description": " Um manequim animado. ",
+            "description": "Um manequim animado.",
             "type": "london"
         },
         {
             "englishWord": "Project Demonic Fog",
             "portugueseWord": "Projeto Névoa Demoníaca",
-            "description": " O projeto que visa destruir a cidade de Londres, e então toda a Inglaterra. ",
+            "description": "O projeto que visa destruir a cidade de Londres, e então toda a Inglaterra.",
             "type": "london"
         },
         {
             "englishWord": "Treacherous Knight",
             "portugueseWord": "Cavaleiro da Traição",
-            "description": " O título da Mordred por trair Camelot nas lendas.",
+            "description": "O título da Mordred por trair Camelot nas lendas.",
             "type": "london"
         },
         {
             "englishWord": "Hero of Benefaction",
             "portugueseWord": "Herói da Caridade",
-            "description": "Título do Karna por ser extremamente caridoso nas lendas. ",
+            "description": "Título do Karna por ser extremamente caridoso nas lendas.",
             "type": "america"
         },
         {
             "englishWord": "Hero of Endowed",
             "portugueseWord": "Herói Agraciado",
-            "description": "Título do Arjuna por receber diversas bênçãos nas lendas. ",
+            "description": "Título do Arjuna por receber diversas bênçãos nas lendas.",
             "type": "america"
         },
         {
             "englishWord": "Land of Shadows",
             "portugueseWord": "Terra das Sombras",
-            "description": "Um reino que foi separado do Mundo, e atualmente se encontra no Lado Inverso do Mundo, sendo repleto de morte. ",
+            "description": "Um reino que foi separado do Mundo, e atualmente se encontra no Lado Inverso do Mundo, sendo repleto de morte.",
             "type": "america"
         },
         {
             "englishWord": "Presi-king",
             "portugueseWord": "Presi-rei",
-            "description": "Título do Edison durante a Singularidade. ",
+            "description": "Título do Edison durante a Singularidade.",
             "type": "america"
         },
         {
             "englishWord": "Mad King",
             "portugueseWord": "Rei Insano",
-            "description": "Título do Cú Chulainn (Alter) durante a Singularidade. ",
+            "description": "Título do Cú Chulainn (Alter) durante a Singularidade.",
             "type": "america"
         },
         {
             "englishWord": "No Face May King",
-            "portugueseWord": "Rei Sem Face ",
+            "portugueseWord": "Rei Sem Face",
             "description": "O Fantasma Nobre do Robin Hood que o concede camuflagem.",
             "type": "america"
         },
@@ -729,7 +789,7 @@
         {
             "englishWord": "First Hassan",
             "portugueseWord": "Primeiro Hassan",
-            "description": "O fundador da seita assassina. O primeiro Hassan-i Sabbah. ",
+            "description": "O fundador da seita assassina. O primeiro Hassan-i Sabbah.",
             "type": "camelot"
         },
         {
@@ -741,7 +801,7 @@
         {
             "englishWord": "Goddess Rhongomyniad",
             "portugueseWord": "Deusa Rhongomyniad",
-            "description": "A Arthuria cujo espírito continuou preso a Camelot e ascendeu à divindade graças ao poder da Lança Sagrada, Rhongomyniad, perdendo toda sua essência humana. ",
+            "description": "A Arthuria cujo espírito continuou preso a Camelot e ascendeu à divindade graças ao poder da Lança Sagrada, Rhongomyniad, perdendo toda sua essência humana.",
             "type": "camelot"
         },
         {
@@ -783,19 +843,19 @@
         {
             "englishWord": "Holy City",
             "portugueseWord": "Cidade Sagrada",
-            "description": "A nova Camelot. ",
+            "description": "A nova Camelot.",
             "type": "camelot"
         },
         {
             "englishWord": "Holy Land",
             "portugueseWord": "Terra Santa",
-            "description": "A Terra Prometida, Jerusalém. ",
+            "description": "A Terra Prometida, Jerusalém.",
             "type": "camelot"
         },
         {
             "englishWord": "Holy Selection",
             "portugueseWord": "Seleção Sagrada",
-            "description": "O ato de seleção dos dignos a se tornarem moradores de Camelot. ",
+            "description": "O ato de seleção dos dignos a se tornarem moradores de Camelot.",
             "type": "camelot"
         },
         {
@@ -807,43 +867,43 @@
         {
             "englishWord": "Lion King",
             "portugueseWord": "Rei Leão",
-            "description": "O título da Deusa Rhongomyniad durante a Singularidade. ",
+            "description": "O título da Deusa Rhongomyniad durante a Singularidade.",
             "type": "camelot"
         },
         {
             "englishWord": "Old Man of the Mountain",
             "portugueseWord": "Velho da Montanha",
-            "description": "O título dado ao Hassan-i Sabbah de cada geração, aquele que lidera a Ordem dos Assassinos. ",
+            "description": "O título dado ao Hassan-i Sabbah de cada geração, aquele que lidera a Ordem dos Assassinos.",
             "type": "camelot"
         },
         {
             "englishWord": "Raider Knight",
             "portugueseWord": "Cavaleiro Expedicionário",
-            "description": "O título do Lancelot durante a Singularidade. ",
+            "description": "O título do Lancelot durante a Singularidade.",
             "type": "camelot"
         },
         {
             "englishWord": "Sacred Lance/Spear",
             "portugueseWord": "Lança Sagrada",
-            "description": "Rhongomyniad, a Lança Sagrada. ",
+            "description": "Rhongomyniad, a Lança Sagrada.",
             "type": "camelot"
         },
         {
             "englishWord": "Sun King",
             "portugueseWord": "Rei Sol",
-            "description": "O título do Ozymandias. ",
+            "description": "O título do Ozymandias.",
             "type": "camelot"
         },
         {
             "englishWord": "Titan's Pit",
             "portugueseWord": "Fenda do Titã",
-            "description": "Um dos nomes do Instituto Atlas. ",
+            "description": "Um dos nomes do Instituto Atlas.",
             "type": "camelot"
         },
         {
             "englishWord": "The Shining Arm",
             "portugueseWord": "O Braço Cintilante",
-            "description": "O braço do Bedivere. ",
+            "description": "O braço do Bedivere.",
             "type": "camelot"
         },
         {
@@ -855,55 +915,55 @@
         {
             "englishWord": "Absolute Demonic Front",
             "portugueseWord": "Fronte Demoníaco Absoluto",
-            "description": "O fronte de Uruk que batalha contras as Bestas Demoníacas. ",
+            "description": "O fronte de Uruk que batalha contras as Bestas Demoníacas.",
             "type": "babylonia"
         },
         {
             "englishWord": "Chains of the Heavens",
             "portugueseWord": "Corrente dos Céus",
-            "description": "O título de Enkidu, devido à sua forma de corrente divina. ",
+            "description": "O título de Enkidu, devido à sua forma de corrente divina.",
             "type": "babylonia"
         },
         {
             "englishWord": "Chaos Tide",
             "portugueseWord": "Maré do Caos",
-            "description": "A maré criada pela Tiamat capaz de corromper seres vivos e Servos. ",
+            "description": "A maré criada pela Tiamat capaz de corromper seres vivos e Servos.",
             "type": "babylonia"
         },
         {
             "englishWord": "Evil(s) of Humanity",
             "portugueseWord": "Mal(es) da Humanidade",
-            "description": "As Beasts, criaturas que a humanidade está destinada a enfrentar e superar. ",
+            "description": "As Beasts, criaturas que a humanidade está destinada a enfrentar e superar.",
             "type": "babylonia"
         },
         {
             "englishWord": "Grand Servant",
             "portugueseWord": "Servo Grand",
-            "description": "Um Servo invocado pela Counter Force para previnir a extinção da humanidade pelas mãos de uma Beast. ",
+            "description": "Um Servo invocado pela Counter Force para previnir a extinção da humanidade pelas mãos de uma Beast.",
             "type": "babylonia"
         },
         {
             "englishWord": "Northern Wall",
             "portugueseWord": "Muralha do Norte",
-            "description": "A muralha da porção norte da cidade de Uruk. ",
+            "description": "A muralha da porção norte da cidade de Uruk.",
             "type": "babylonia"
         },
         {
             "englishWord": "Sacred Temple",
             "portugueseWord": "Templo Sagrado",
-            "description": "O templo de Uruk. ",
+            "description": "O templo de Uruk.",
             "type": "babylonia"
         },
         {
             "englishWord": "The Fangs of Napishtim",
             "portugueseWord": "As Presas de Napishtim",
-            "description": "A barreira empregada pelo Gilgamesh para impedir o avanço da Maré do Caos. ",
+            "description": "A barreira empregada pelo Gilgamesh para impedir o avanço da Maré do Caos.",
             "type": "babylonia"
         },
         {
             "englishWord": "Three Goddess Alliance",
             "portugueseWord": "Aliança das Três Deusas",
-            "description": "A aliança formada pelas três deusas a fim de destruir Uruk e a humanidade. ",
+            "description": "A aliança formada pelas três deusas a fim de destruir Uruk e a humanidade.",
             "type": "babylonia"
         },
         {
@@ -927,13 +987,13 @@
         {
             "englishWord": "King Lear",
             "portugueseWord": "Rei Lear",
-            "description": "Personagem dos livros de Shakespeare. ",
+            "description": "Personagem dos livros de Shakespeare.",
             "type": "shinjuku"
         },
         {
             "englishWord": "Ice Bitch Queen",
             "portugueseWord": "Rainha Piranha (de Gelo)",
-            "description": "Apelido \"carinhoso\" colocado na Salter pela Jalter. ",
+            "description": "Apelido \"carinhoso\" colocado na Salter pela Jalter.",
             "type": "shinjuku"
         },
         {
@@ -945,13 +1005,13 @@
         {
             "englishWord": "Napoleon of Crime",
             "portugueseWord": "Napoleão do Crime",
-            "description": "Um dos títulos de James Moriarty. ",
+            "description": "Um dos títulos de James Moriarty.",
             "type": "shinjuku"
         },
         {
             "englishWord": "Phantom Spirits",
             "portugueseWord": "Espíritos Fantasmas",
-            "description": "Os Espíritos que não chegam a se tornar Heroicos, mas aparecem em Shinjuku devido à natureza da Singularidade. ",
+            "description": "Os Espíritos que não chegam a se tornar Heroicos, mas aparecem em Shinjuku devido à natureza da Singularidade.",
             "type": "shinjuku"
         },
         {
@@ -1047,19 +1107,19 @@
         {
             "englishWord": "Adminstrative Advisor",
             "portugueseWord": "conselheiro administrativo (Holmes)",
-            "description": "Cargo que o Diretor Goredolf dá ao Sherlock, como seu braço direito. ",
+            "description": "Cargo que o Diretor Goredolf dá ao Sherlock, como seu braço direito.",
             "type": "lostbelt_prologue"
         },
         {
             "englishWord": "Alien God/Foreign God",
             "portugueseWord": "Deus Estrangeiro",
-            "description": "O ser extraterrestre responsável pelos acontecimentos do Arco 2. ",
+            "description": "O ser extraterrestre responsável pelos acontecimentos do Arco 2.",
             "type": "lostbelt_prologue"
         },
         {
             "englishWord": "All-Terrain Void-Transporter, Shadow Border",
             "portugueseWord": "Shadow Border, o Veículo Anfíbio, o Viajante do Vazio",
-            "description": "O veículo que serve como base para os sobreviventes de Chaldea após os acontecimentos do Prólogo. ",
+            "description": "O veículo que serve como base para os sobreviventes de Chaldea após os acontecimentos do Prólogo.",
             "type": "lostbelt_prologue"
         },
         {
@@ -1071,7 +1131,7 @@
         {
             "englishWord": "Bleached Earth",
             "portugueseWord": "Terra Esbranquiçada",
-            "description": "O estado atual da Terra após os acontecimentos do Prólogo. ",
+            "description": "O estado atual da Terra após os acontecimentos do Prólogo.",
             "type": "lostbelt_prologue"
         },
         {
@@ -1095,37 +1155,37 @@
         {
             "englishWord": "Proper Human History",
             "portugueseWord": "História Humana Apropriada",
-            "description": "O curso normal da humanidade, a história \"correta\" onde a humanidade segue próspera. ",
+            "description": "O curso normal da humanidade, a história \"correta\" onde a humanidade segue próspera.",
             "type": "lostbelt_prologue"
         },
         {
             "englishWord": "Reality Space",
             "portugueseWord": "Espaço Real",
-            "description": "O lado do mundo em que habitamos. A realidade. ",
+            "description": "O lado do mundo em que habitamos. A realidade.",
             "type": "lostbelt_prologue"
         },
         {
             "englishWord": "Spirit Origin Graph",
             "portugueseWord": "Diagrama de Origens Espirituais",
-            "description": "A maleta criada pela Da Vinci que contém todos os dados sobre os Servos que invocamos durante o arco 1. ",
+            "description": "A maleta criada pela Da Vinci que contém todos os dados sobre os Servos que invocamos durante o arco 1.",
             "type": "lostbelt_prologue"
         },
         {
             "englishWord": "Technical Advisor",
             "portugueseWord": "conselheira técnica (a Da Vinci)",
-            "description": "Cargo que o Diretor Goredolf dá à Da Vinci, como seu braço esquerdo. ",
+            "description": "Cargo que o Diretor Goredolf dá à Da Vinci, como seu braço esquerdo.",
             "type": "lostbelt_prologue"
         },
         {
             "englishWord": "Void-Reality Observation Device, Paper Moon",
-            "portugueseWord": "Aparelho de Observação do Vazio, ",
-            "description": "Paper Moon O aparelho que possibilita os Saltos Zero do Shadow Border. ",
+            "portugueseWord": "Aparelho de Observação do Vazio,",
+            "description": "Paper Moon O aparelho que possibilita os Saltos Zero do Shadow Border.",
             "type": "lostbelt_prologue"
         },
         {
             "englishWord": "Void Space",
             "portugueseWord": "Espaço Vazio",
-            "description": "O espaço composto por números imaginários num tecido diferente da realidade. ",
+            "description": "O espaço composto por números imaginários num tecido diferente da realidade.",
             "type": "lostbelt_prologue"
         },
         {
@@ -1137,73 +1197,73 @@
         {
             "englishWord": "Calydonian Boar",
             "portugueseWord": "Javali Calidônio",
-            "description": "O javali que destruiu a região da Calidônia, que foi caçado por diversos heróis gregos na antiguidade, e que eventualmente foi derrotado por Atalante. ",
+            "description": "O javali que destruiu a região da Calidônia, que foi caçado por diversos heróis gregos na antiguidade, e que eventualmente foi derrotado por Atalante.",
             "type": "anastasia"
         },
         {
             "englishWord": "Felling Theoretical Phenomenon",
             "portugueseWord": "Fenômeno Teórico de Derrubada",
-            "description": "O fenômeno de destruição da História Humana Apropriada liderado pelo Deus Estrangeiro. ",
+            "description": "O fenômeno de destruição da História Humana Apropriada liderado pelo Deus Estrangeiro.",
             "type": "anastasia"
         },
         {
             "englishWord": "Foreign God Disciple(s)",
             "portugueseWord": "Discípulo(s) do Deus Estrangeiro",
-            "description": "Os Servos AlterEgo invocados pelo Deus Estrangeiro para que pudessem orquestrar sua descida dos céus. ",
+            "description": "Os Servos AlterEgo invocados pelo Deus Estrangeiro para que pudessem orquestrar sua descida dos céus.",
             "type": "anastasia"
         },
         {
             "englishWord": "Foreign Pristess",
             "portugueseWord": "Sacerdotisa Estrangeira",
-            "description": "A sacerdotisa misteriosa que parece ter conexões com o Deus Estrangeiro. ",
+            "description": "A sacerdotisa misteriosa que parece ter conexões com o Deus Estrangeiro.",
             "type": "anastasia"
         },
         {
             "englishWord": "Grand Duchess (of the Beast Nation)",
             "portugueseWord": "Grã-Duquesa (da Nação das Bestas)",
-            "description": "O título de Anastasia no Lostbelt. ",
+            "description": "O título de Anastasia no Lostbelt.",
             "type": "anastasia"
         },
         {
             "englishWord": "Ivan the Terrible",
             "portugueseWord": "Ivan, o Terrível",
-            "description": "O Czar que governou a Rússia durante parte do Século XVI. ",
+            "description": "O Czar que governou a Rússia durante parte do Século XVI.",
             "type": "anastasia"
         },
         {
             "englishWord": "Lostbelt King/Queen",
             "portugueseWord": "Rei/Rainha do Lostbelt",
-            "description": "O governante de um Lostbelt. ",
+            "description": "O governante de um Lostbelt.",
             "type": "anastasia"
         },
         {
             "englishWord": "Ortinax",
             "portugueseWord": "Ortenaus",
-            "description": "O exoesqueleto utilizado pela Mash para aumentar suas capacidades de batalha após os eventos de Solomon. ",
+            "description": "O exoesqueleto utilizado pela Mash para aumentar suas capacidades de batalha após os eventos de Solomon.",
             "type": "anastasia"
         },
         {
             "englishWord": "Pruning Theorical Phenomenon",
             "portugueseWord": "Fenômeno Teórico de Poda",
-            "description": "O fenômeno que poda os \"ramos\" de linhas temporais onde a humanidade enfrenta um destino inviável. ",
+            "description": "O fenômeno que poda os \"ramos\" de linhas temporais onde a humanidade enfrenta um destino inviável.",
             "type": "anastasia"
         },
         {
             "englishWord": "Sirius Light Command Spell",
             "portugueseWord": "Selo de Comando da Luz de Sírius",
-            "description": "Os Selos de Comando especiais dados ao Time A por Marisbury no começo da Grand Order, cujo potencial verdadeiro só é conhecido pelo mesmo e por Kirschtaria Wodime. ",
+            "description": "Os Selos de Comando especiais dados ao Time A por Marisbury no começo da Grand Order, cujo potencial verdadeiro só é conhecido pelo mesmo e por Kirschtaria Wodime.",
             "type": "anastasia"
         },
         {
             "englishWord": "Storm Wall",
             "portugueseWord": "Muralha de Tempestades",
-            "description": "As tempestades que cercam os Lostbelts. ",
+            "description": "As tempestades que cercam os Lostbelts.",
             "type": "anastasia"
         },
         {
             "englishWord": "Tree of Emptiness",
             "portugueseWord": "Árvore do Vazio",
-            "description": "A árvore colossal que possibilita a existência dos Lostbelts no mundo real. ",
+            "description": "A árvore colossal que possibilita a existência dos Lostbelts no mundo real.",
             "type": "anastasia"
         },
         {
@@ -1215,19 +1275,19 @@
         {
             "englishWord": "Envoys",
             "portugueseWord": "Emissárias",
-            "description": "O título dado às Valquírias pela Scáthach-Skadi. ",
+            "description": "O título dado às Valquírias pela Scáthach-Skadi.",
             "type": "gotterdammerung"
         },
         {
             "englishWord": "Fiery King of Giants",
             "portugueseWord": "Rei Flamejante dos Gigantes",
-            "description": "O título de Surtr. ",
+            "description": "O título de Surtr.",
             "type": "gotterdammerung"
         },
         {
             "englishWord": "Ollerus Boards",
             "portugueseWord": "Pranchas de Ollerus",
-            "description": "As pranchas de esquiar do Ortenaus. ",
+            "description": "As pranchas de esquiar do Ortenaus.",
             "type": "gotterdammerung"
         },
         {
@@ -1239,31 +1299,31 @@
         {
             "englishWord": "Poetic Edda",
             "portugueseWord": "Edda em verso",
-            "description": "Uma coleção de poemas em nórdico antigo sobre diversos heróis e contos. ",
+            "description": "Uma coleção de poemas em nórdico antigo sobre diversos heróis e contos.",
             "type": "gotterdammerung"
         },
         {
             "englishWord": "Primordial Runes",
             "portugueseWord": "Runas Primordiais",
-            "description": "Runas especiais criadas por Odin, o Pai de Todos. ",
+            "description": "Runas especiais criadas por Odin, o Pai de Todos.",
             "type": "gotterdammerung"
         },
         {
             "englishWord": "Queen of Ice and Snow",
             "portugueseWord": "Rainha do Gelo e da Neve",
-            "description": "O título de Scáthach-Skadi. ",
+            "description": "O título de Scáthach-Skadi.",
             "type": "gotterdammerung"
         },
         {
             "englishWord": "Spiritron Hacker",
             "portugueseWord": "Hacker de Spiritrons",
-            "description": "Um mago capaz de utilizar magias que empregam Spiritrons como matéria-prima. ",
+            "description": "Um mago capaz de utilizar magias que empregam Spiritrons como matéria-prima.",
             "type": "gotterdammerung"
         },
         {
             "englishWord": "Valkyrie(s)",
             "portugueseWord": "Valquíria(s)",
-            "description": "As filhas de Odin que conduziam bravos guerreiros mortos ao salão dos mortos, Valhalla. ",
+            "description": "As filhas de Odin que conduziam bravos guerreiros mortos ao salão dos mortos, Valhalla.",
             "type": "gotterdammerung"
         },
         {
@@ -1275,7 +1335,7 @@
         {
             "englishWord": "Child of Heaven",
             "portugueseWord": "Criança Celestial",
-            "description": "Título de Qin Shi Huang. ",
+            "description": "Título de Qin Shi Huang.",
             "type": "sin"
         },
         {
@@ -1287,25 +1347,25 @@
         {
             "englishWord": "Memory Partition",
             "portugueseWord": "Partição de Memória",
-            "description": "Habilidade da Sion de dividir sua memória e otimizar sua habilidade cognitiva, em conjunto da Aceleração de Pensamentos Paralelos. ",
+            "description": "Habilidade da Sion de dividir sua memória e otimizar sua habilidade cognitiva, em conjunto da Aceleração de Pensamentos Paralelos.",
             "type": "sin"
         },
         {
             "englishWord": "Most Glorious and Majestic Heavenly Emperor",
-            "portugueseWord": "Mais Glorioso e Majestoso Imperador ",
-            "description": "Celestial Outro título de Qin Shi Huang. ",
+            "portugueseWord": "Mais Glorioso e Majestoso Imperador",
+            "description": "Celestial Outro título de Qin Shi Huang.",
             "type": "sin"
         },
         {
             "englishWord": "Parallel Thought Acceleration",
             "portugueseWord": "Aceleração de Pensamentos Paralelos",
-            "description": "Habilidade da Sion de dividir sua memória e otimizar sua habilidade cognitiva, em conjunto da Partição de Memória. ",
+            "description": "Habilidade da Sion de dividir sua memória e otimizar sua habilidade cognitiva, em conjunto da Partição de Memória.",
             "type": "sin"
         },
         {
             "englishWord": "Spiritron Calculation Engine, Trismegistus II",
-            "portugueseWord": "Mecanismo de Cálculo de ",
-            "description": "Spiritrons, Trismegistus II O novo supercomputador que Sion construiu para substituir o Trismegistus original. ",
+            "portugueseWord": "Mecanismo de Cálculo de",
+            "description": "Spiritrons, Trismegistus II O novo supercomputador que Sion construiu para substituir o Trismegistus original.",
             "type": "sin"
         },
         {
@@ -1317,25 +1377,25 @@
         {
             "englishWord": "God's Skyboulder",
             "portugueseWord": "Rocha Divina",
-            "description": "O cubo misterioso que reside ao sul do Lostbelt indiano. Os moradores o associam ao seu deus. ",
+            "description": "O cubo misterioso que reside ao sul do Lostbelt indiano. Os moradores o associam ao seu deus.",
             "type": "yuga_kshetra"
         },
         {
             "englishWord": "Imaginary Aronnax Phantasm rigging",
             "portugueseWord": "Armação Imaginária, Aronnax Phantasm",
-            "description": "A armação que, quando implementada ao Shadow Border, cria o Storm Border ao final do capítulo. ",
+            "description": "A armação que, quando implementada ao Shadow Border, cria o Storm Border ao final do capítulo.",
             "type": "yuga_kshetra"
         },
         {
             "englishWord": "Ocean of Milk",
             "portugueseWord": "Oceano de Leite",
-            "description": "Kṣīra Sāgara, o oceano do néctar da vida eterna na mitologia hindu. ",
+            "description": "Kṣīra Sāgara, o oceano do néctar da vida eterna na mitologia hindu.",
             "type": "yuga_kshetra"
         },
         {
             "englishWord": "Sacred Beasts",
             "portugueseWord": "Bestas Sagradas",
-            "description": "As bestas que dizem ser enviadas pelo deus do Lostbelt indiano para matar os Kalis nos yugas mais avançados. ",
+            "description": "As bestas que dizem ser enviadas pelo deus do Lostbelt indiano para matar os Kalis nos yugas mais avançados.",
             "type": "yuga_kshetra"
         },
         {
@@ -1365,7 +1425,7 @@
         {
             "englishWord": "Atlas the World Tree",
             "portugueseWord": "Atlas, a Árvore do Mundo",
-            "description": "O nome da Árvore do Vazio do LB5. ",
+            "description": "O nome da Árvore do Vazio do LB5.",
             "type": "atlantis"
         },
         {
@@ -1401,7 +1461,7 @@
         {
             "englishWord": "Shooting Star Ortygia",
             "portugueseWord": "Estrela Cadente Ortygia",
-            "description": "Um laser destrutivo de Artemis. ",
+            "description": "Um laser destrutivo de Artemis.",
             "type": "atlantis"
         },
         {
@@ -1443,7 +1503,7 @@
         {
             "englishWord": "God Destroyer Alliance",
             "portugueseWord": "Aliança Destruidora de Deuses",
-            "description": "A aliança criada por alguns humanos do Olímpo e Servos da História Humana Apropriada para derrubar os deuses. ",
+            "description": "A aliança criada por alguns humanos do Olímpo e Servos da História Humana Apropriada para derrubar os deuses.",
             "type": "olympus"
         },
         {
@@ -1473,7 +1533,7 @@
         {
             "englishWord": "Operation God Destroyer",
             "portugueseWord": "Operação Destruidora de Deuses",
-            "description": "A operação criada pela Aliança Destruidora de Deuses. ",
+            "description": "A operação criada pela Aliança Destruidora de Deuses.",
             "type": "olympus"
         },
         {
@@ -1513,10 +1573,94 @@
             "type": "heian-kyo"
         },
         {
-            "englishWord": "Shielder/Saber/Archer/Lancer/Rider/Assassin/Caster/Berserker/Alter-Ego/Ruler/Avenger/Moon Cancer/Foreigner/Pretender/Beast",
-            "portugueseWord": "Shielder/Saber/Archer/Lancer/Rider/Assassin/Caster/Berserker/Alter-Ego/Ruler/Avenger/Moon Cancer/Foreigner/Pretender/Beast",
-            "description": "As Classes dos Servos e inimigos do jogo.",
-            "type": "untranslated"
+            "englishWord": "Shielder",
+            "portugueseWord": "Shielder",
+            "description": "As Classes dos Servos e inimigos do jogo permanecem em inglês.",
+            "type": "class"
+        },
+        {
+            "englishWord": "Saber",
+            "portugueseWord": "Saber",
+            "description": "As Classes dos Servos e inimigos do jogo permanecem em inglês.",
+            "type": "class"
+        },
+        {
+            "englishWord": "Archer",
+            "portugueseWord": "Archer",
+            "description": "As Classes dos Servos e inimigos do jogo permanecem em inglês.",
+            "type": "class"
+        },
+        {
+            "englishWord": "Lancer",
+            "portugueseWord": "Lancer",
+            "description": "As Classes dos Servos e inimigos do jogo permanecem em inglês.",
+            "type": "class"
+        },
+        {
+            "englishWord": "Rider",
+            "portugueseWord": "Rider",
+            "description": "As Classes dos Servos e inimigos do jogo permanecem em inglês.",
+            "type": "class"
+        },
+        {
+            "englishWord": "Assassin",
+            "portugueseWord": "Assassin",
+            "description": "As Classes dos Servos e inimigos do jogo permanecem em inglês.",
+            "type": "class"
+        },
+        {
+            "englishWord": "Caster",
+            "portugueseWord": "Caster",
+            "description": "As Classes dos Servos e inimigos do jogo permanecem em inglês.",
+            "type": "class"
+        },
+        {
+            "englishWord": "Berserker",
+            "portugueseWord": "Berserker",
+            "description": "As Classes dos Servos e inimigos do jogo permanecem em inglês.",
+            "type": "class"
+        },
+        {
+            "englishWord": "Alter-Ego",
+            "portugueseWord": "Alter-Ego",
+            "description": "As Classes dos Servos e inimigos do jogo permanecem em inglês.",
+            "type": "class"
+        },
+        {
+            "englishWord": "Ruler",
+            "portugueseWord": "Ruler",
+            "description": "As Classes dos Servos e inimigos do jogo permanecem em inglês.",
+            "type": "class"
+        },
+        {
+            "englishWord": "Avenger",
+            "portugueseWord": "Avenger",
+            "description": "As Classes dos Servos e inimigos do jogo permanecem em inglês.",
+            "type": "class"
+        },
+        {
+            "englishWord": "Moon Cancer",
+            "portugueseWord": "Moon Cancer",
+            "description": "As Classes dos Servos e inimigos do jogo permanecem em inglês.",
+            "type": "class"
+        },
+        {
+            "englishWord": "Foreigner",
+            "portugueseWord": "Foreigner",
+            "description": "As Classes dos Servos e inimigos do jogo permanecem em inglês.",
+            "type": "class"
+        },
+        {
+            "englishWord": "Pretender",
+            "portugueseWord": "Pretender",
+            "description": "As Classes dos Servos e inimigos do jogo permanecem em inglês.",
+            "type": "class"
+        },
+        {
+            "englishWord": "Beast",
+            "portugueseWord": "Beast",
+            "description": "As Classes dos Servos e inimigos do jogo permanecem em inglês.",
+            "type": "class"
         },
         {
             "englishWord": "Bunker Bolt",
