@@ -22,7 +22,7 @@ body {
 }
 
 .header img {
-    height: 256px;
+    height: 192px;
     border-radius: 25px;
     margin: -10px;
     cursor: pointer;
@@ -38,6 +38,7 @@ body {
 .inputs input {
     width: 100%;
     font-size: 1.5em;
+    color: rgb(250, 250, 250);
     border: none;
     border-bottom: 1px solid black;
     background-color: rgb(27, 27, 27);
