@@ -3,7 +3,9 @@ const inputSearch = document.querySelector("input[type='search']");
 const image = document.getElementById("logo");
 const buttonDiv = document.getElementById("filter-buttons");
 const redefineButton = document.getElementById("redefine-button");
+const clearButton = document.getElementById("clear-button");
 const backToTopButton = document.getElementById('back-to-top');
+const glossaryCounter = document.getElementById('counter');
 
 import glossary from './glossary.json' assert {type: 'json'}
 import colors from './colors.json' assert {type: 'json'}
@@ -25,9 +27,12 @@ const words = glossary.words.sort(function (a, b) {
     return 0;
 });
 
+let filteredGlossary = [];
 let clickedButtons = [];
 
 document.body.onload = () => {
+    filteredGlossary = words;
+    glossaryCounter.innerHTML = `Mostrando ${filteredGlossary.length} resultados de ${words.length}.`;
     image.src = 'img/header.png';
     words.forEach((element) => {
         if (!termTypes.includes(element.type)) {
@@ -55,14 +60,27 @@ redefineButton.onclick = () => {
     let counter = 0;
     buttonDiv.childNodes.forEach((node) => {
         counter++;
-        if (counter >= 4) {
-            const index = termTypes.indexOf(node.innerHTML.toLowerCase());
+        if (counter >= 6) {
+            const index = termTypes.indexOf(localize(node.innerHTML.toLowerCase(), 'english'));
             node.style.backgroundColor = colors[index].bg;
             node.style.color = colors[index].txt;
             node.style.opacity = 1;
         }
     });
-    reloadGlossary(redefineButton.type);
+    reloadGlossary();
+}
+clearButton.onclick = () => {
+    clickedButtons = [];
+    let counter = 0;
+    buttonDiv.childNodes.forEach((node) => {
+        counter++;
+        if (counter >= 6) {
+            node.style.backgroundColor = colors[colors.length - 1].bg;
+            node.style.color = colors[colors.length - 1].txt;
+            node.style.opacity = 0.25;
+        }
+    });
+    reloadGlossary();
 }
 
 backToTopButton.onclick = () => {
@@ -73,9 +91,13 @@ backToTopButton.onclick = () => {
 }
 
 function capitalizeFirstLetter(string) {
-    return string.charAt(0).toUpperCase() + string.slice(1);
+    string = string.split(" ");
+    for(let i = 0; i < string.length; i++) {
+        string[i] = string[i].charAt(0).toUpperCase() + string[i].slice(1);
+    }
+    string = string.join(" ");
+    return string;
 }
-
 function createElements(object) {
     const innerDiv = document.createElement('div');
     innerDiv.id = "term";
@@ -106,23 +128,20 @@ function createElements(object) {
     if (!notSingularity.includes(object.type)) {
         const singularity = document.createElement('p');
         singularity.id = "singularity";
-        singularity.innerText = "Aparece em: " + capitalizeFirstLetter(object.type);
+        singularity.innerText = "Aparece em: " + capitalizeFirstLetter(localize(object.type, 'portuguese'));
         innerDiv.appendChild(singularity);
     }
     glossaryDiv.appendChild(innerDiv);
 }
-function reloadGlossary(origin) {
+function reloadGlossary() {
     glossaryDiv.innerHTML = "";
-    let filteredGlossary = [];
-    if (origin == 'search') {
-        filteredGlossary = words.filter((item) => item.englishWord.toLowerCase().includes(inputSearch.value.toLowerCase()))
-    } else if (origin == 'button') {
-        filteredGlossary = words.filter((item) => clickedButtons.includes(item.type))
-    }
+    filteredGlossary = words.filter((item) => item.englishWord.toLowerCase().includes(inputSearch.value.toLowerCase()))
+    filteredGlossary = filteredGlossary.filter((item) => clickedButtons.includes(item.type))
+    glossaryCounter.innerText = `Mostrando ${filteredGlossary.length} resultados de ${words.length}.`;
     filteredGlossary.forEach((element) => { createElements(element) })
 }
 inputSearch.oninput = () => {
-    reloadGlossary(inputSearch.type);
+    reloadGlossary();
 }
 function createButton(type) {
     const button = document.createElement('button');
@@ -143,9 +162,9 @@ function createButton(type) {
             button.style.opacity = 0.25;
             removeFromArray(clickedButtons, type);
         }
-        reloadGlossary(button.type);
+        reloadGlossary();
     }
-    button.innerText = type.toUpperCase();
+    button.innerText = localize(type, 'portuguese').toUpperCase();
     buttonDiv.appendChild(button);
 }
 
@@ -155,5 +174,16 @@ function removeFromArray(array, element) {
         if (array[i] == element) {
             array.splice(i, 1)
         }
+    }
+}
+
+function localize(name, language) {
+    const english = ['lostbelt_prologue', 'general', 'attributes', 'bestiary', 'sin' , 'class', 'yuga_kshetra', 'untranslated'];
+    const portuguese = ['lostbelts (prólogo)', 'geral', 'atributos', 'bestiário', 's i n' , 'classes', 'yuga kshetra', 'não traduzidos'];
+    if (language == 'portuguese') {
+        return english.indexOf(name) >= 0 ? portuguese[english.indexOf(name)] : name;
+    }
+    else if (language == 'english') {
+        return portuguese.indexOf(name) >= 0 ? english[portuguese.indexOf(name)] : name;
     }
 }
