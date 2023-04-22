@@ -51,19 +51,43 @@ body {
 }
 
 #term p,
-#term h2,
-#term h4 {
+#term h2 {
     max-width: fit-content;
     background-color: rgb(5, 5, 5);
     padding: 5px 10px;
     border-radius: 5px;
 }
-
+#ptDiv {
+    display: flex;
+    background-color: rgb(5, 5, 5);
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-top: 1.3em;
+    border-radius: 5px;
+    align-items: center;
+    width: fit-content;
+}
+#ptDiv h3, img {
+    height: fit-content;
+    padding-left: 1em;
+    padding-right: 1em;
+}
+#ptDiv img {
+    border-left: 1px solid white;
+}
 #term h2 {
     font-size: 2em;
     margin-bottom: -20px;
 }
-
+#hidden {
+    font-weight: bold;
+    
+}
+#copy-img {
+    max-width: 32px;
+    width: 24px;
+    cursor: pointer;
+}
 #term #singularity {
     background-color: inherit;
 }
@@ -144,8 +168,7 @@ footer svg {
         height: auto;
     }
     #term p,
-    #term h2,
-    #term h4 {
+    #term h2 {
         max-width: max-content;
         background-color: rgb(5, 5, 5);
         padding: 5px 10px;
