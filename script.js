@@ -101,9 +101,12 @@ function capitalizeFirstLetter(string) {
 function createElements(object) {
     const innerDiv = document.createElement('div');
     innerDiv.id = "term";
+    const ptDiv = document.createElement('div');
+    ptDiv.id = "ptDiv";
     const english = document.createElement('h2');
-    const portuguese = document.createElement('h4');
+    const portuguese = document.createElement('h3');
     const description = document.createElement('p');
+    const copyButton = document.createElement('img');
     const styles = innerDiv.style;
     if (notSingularity.includes(object.type)) {
         styles.backgroundImage = 'url(img/default.png)';
@@ -116,6 +119,20 @@ function createElements(object) {
 
     english.innerText = object.englishWord;
     portuguese.innerText = object.portugueseWord;
+    copyButton.src = "./img/copy.png";
+    copyButton.id = 'copy-img';
+    copyButton.onclick = () => {
+        navigator.clipboard.writeText(object.portugueseWord).then(() => {
+            const alert = document.createElement('p')
+            alert.innerText = "Copiado!";
+            alert.id = "hidden";
+            ptDiv.appendChild(alert);
+            setTimeout(() => {
+                ptDiv.removeChild(alert);
+            }, 2000)
+        })
+        console.log(object.portugueseWord);
+    }
     if (object.description == "") {
         description.innerText = "Sem descrição.";
     }
@@ -123,7 +140,9 @@ function createElements(object) {
         description.innerText = object.description;
     }
     innerDiv.appendChild(english);
-    innerDiv.appendChild(portuguese);
+    ptDiv.appendChild(portuguese);
+    ptDiv.appendChild(copyButton);
+    innerDiv.appendChild(ptDiv);
     innerDiv.appendChild(description);
     if (!notSingularity.includes(object.type)) {
         const singularity = document.createElement('p');
