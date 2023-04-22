@@ -1663,6 +1663,30 @@
             "type": "heian-kyo"
         },
         {
+            "englishWord": "Pseudo-Tree of Emptiness",
+            "portugueseWord": "Árvore do Vazio Artificial",
+            "description": "Árvore do Vazio criada por Limbo durante a história de Heian-kyo.",
+            "type": "heian-kyo"
+        },
+        {
+            "englishWord": "Minister of the Left",
+            "portugueseWord": "Ministro da Esquerda",
+            "description": "Cargo político que cuidava de todos os setores do Estado, juntamente com o Ministro da Direita.",
+            "type": "heian-kyo"
+        },
+        {
+            "englishWord": "Onmyou Bureau",
+            "portugueseWord": "Agência Onmyou",
+            "description": "",
+            "type": "heian-kyo"
+        },
+        {
+            "englishWord": "Deathmatch Stage",
+            "portugueseWord": "Palco do Duelo Mortal",
+            "description": "Duelos entre Servos realizados durante a Guerra Imperial do Santo Graal.",
+            "type": "heian-kyo"
+        },
+        {
             "englishWord": "Bunker Bolt",
             "portugueseWord": "Bunker Bolt",
             "description": "",
