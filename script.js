@@ -1,3 +1,6 @@
+import colors from './colors.json' assert {type: 'json'}
+
+//HTML Elements
 const glossaryDiv = document.getElementById("glossary-div");
 const inputSearch = document.querySelector("input[type='search']");
 const image = document.getElementById("logo");
@@ -7,30 +10,41 @@ const clearButton = document.getElementById("clear-button");
 const backToTopButton = document.getElementById('back-to-top');
 const glossaryCounter = document.getElementById('counter');
 
-import glossary from './glossary.json' assert {type: 'json'}
-import colors from './colors.json' assert {type: 'json'}
+//Glossary constants
+const glossaryURL = "https://opensheet.elk.sh/1wYMpoRo6smoPV2wOd8Lb06pqjZuyRcXQTlVvAY7Iz9U/Glossary";
 const termTypes = [];
 const notSingularity = ['general', 'skills', 'untranslated', 'attributes', 'bestiary', 'class'];
-glossary.words.forEach((item) => {
-    if (!termTypes.includes(item.type)) {
-        termTypes.push(item.type);
-    }
-})
 
-const words = glossary.words.sort(function (a, b) {
-    if (a.englishWord > b.englishWord) {
-        return 1;
-    }
-    if (a.englishWord < b.englishWord) {
-        return -1;
-    }
-    return 0;
-});
-
+//Glossary variables
+let words;
 let filteredGlossary = [];
 let clickedButtons = [];
 
-document.body.onload = () => {
+//Get terms from API
+async function getWords(url) {
+    const data = await fetch(url).then((resp) => resp.json());
+    return data.map(({undefined, ...others}) => others);
+}
+
+//Fill words array, filter array and term types array
+document.body.onload = async () => {
+    words = await getWords(glossaryURL);
+    words.forEach((item) => {
+        if (!termTypes.includes(item.type)) {
+            termTypes.push(item.type);
+        }
+    });
+    words = words.sort(function (a, b) {
+        if (a.englishWord > b.englishWord) {
+            return 1;
+        }
+        if (a.englishWord < b.englishWord) {
+            return -1;
+        }
+        return 0;
+    });
+    console.log(termTypes);
+    console.log(words);
     filteredGlossary = words;
     glossaryCounter.innerHTML = `Mostrando ${filteredGlossary.length} resultados de ${words.length}.`;
     image.src = 'img/header.png';
@@ -46,6 +60,13 @@ document.body.onload = () => {
     })
 }
 
+/*
+----------------------------
+| BUTTON-RELATED FUNCTIONS |
+----------------------------
+*/
+
+//Little Easter Egg
 image.onclick = () => {
     if (image.src.includes('img/header.png')) {
         image.src = 'img/banner.png';
@@ -54,6 +75,8 @@ image.onclick = () => {
         image.src = 'img/header.png'
     }
 }
+
+//Show all terms
 redefineButton.onclick = () => {
     clickedButtons = [];
     termTypes.forEach((element) => clickedButtons.push(element));
@@ -69,6 +92,8 @@ redefineButton.onclick = () => {
     });
     reloadGlossary();
 }
+
+//Hide all terms
 clearButton.onclick = () => {
     clickedButtons = [];
     let counter = 0;
@@ -83,6 +108,7 @@ clearButton.onclick = () => {
     reloadGlossary();
 }
 
+//Back to top of the site
 backToTopButton.onclick = () => {
     window.scrollTo({
         top: 0,
@@ -90,14 +116,13 @@ backToTopButton.onclick = () => {
     });
 }
 
-function capitalizeFirstLetter(string) {
-    string = string.split(" ");
-    for(let i = 0; i < string.length; i++) {
-        string[i] = string[i].charAt(0).toUpperCase() + string[i].slice(1);
-    }
-    string = string.join(" ");
-    return string;
-}
+/*
+--------------------------
+| HTML-RELATED FUNCTIONS |
+--------------------------
+*/
+
+//Create HTML term cards dynamically
 function createElements(object) {
     const innerDiv = document.createElement('div');
     innerDiv.id = "term";
@@ -147,21 +172,27 @@ function createElements(object) {
     if (!notSingularity.includes(object.type)) {
         const singularity = document.createElement('p');
         singularity.id = "singularity";
-        singularity.innerText = "Aparece em: " + capitalizeFirstLetter(localize(object.type, 'portuguese'));
+        singularity.innerText = "Aparece em: " + appearanceInterpreter(object.type, object.appearance);
         innerDiv.appendChild(singularity);
     }
     glossaryDiv.appendChild(innerDiv);
 }
+
+//Update glossary after clicking buttons or typing on search bar
 function reloadGlossary() {
     glossaryDiv.innerHTML = "";
     filteredGlossary = words.filter((item) => item.englishWord.toLowerCase().includes(inputSearch.value.toLowerCase()))
-    filteredGlossary = filteredGlossary.filter((item) => clickedButtons.includes(item.type))
+    filteredGlossary = filteredGlossary.filter((item) => arrayMatch(clickedButtons, item.appearance, item.type))
     glossaryCounter.innerText = `Mostrando ${filteredGlossary.length} resultados de ${words.length}.`;
     filteredGlossary.forEach((element) => { createElements(element) })
 }
+
+//Reload glossary every time the input changes
 inputSearch.oninput = () => {
     reloadGlossary();
 }
+
+//Create buttons on document load and changes visibility if clicked
 function createButton(type) {
     const button = document.createElement('button');
     const index = termTypes.indexOf(type);
@@ -187,7 +218,47 @@ function createButton(type) {
     buttonDiv.appendChild(button);
 }
 
+/*
+-----------------------
+| AUXILIARY FUNCTIONS |
+-----------------------
+*/
 
+//Get binary string and translate it to an array with chapter names
+function appearanceInterpreter(type, string) {
+    let array = string.split('');
+    let finalString = capitalizeFirstLetter(localize(type, 'portuguese'));
+    for(let i = 0; i < array.length; i++) {
+        if(array[i] == '1') {
+            finalString += ", " + capitalizeFirstLetter(localize(termTypes[i+5], 'portuguese'));
+        }
+    }
+    return finalString;
+}
+
+//Verifies if a term is in a determined chapter
+function arrayMatch(array, string, type) {
+    if(array.includes(type)) {
+        return true;
+    }
+    let chaptersString = string.split('');
+    let chaptersArray = [];
+    for(let i = 0; i < chaptersString.length; i++) {
+        if(chaptersString[i] == '1') {
+            chaptersArray.push(termTypes[i+5]);
+        }
+    }
+    for(let i = 0; i < array.length; i++) {
+        console.log(chaptersArray, array[i])
+        if(chaptersArray.includes(array[i])) {
+            return true;
+        }
+    }
+    return false;
+
+}
+
+//Remove an item from an array
 function removeFromArray(array, element) {
     for (let i = 0; i < array.length; i++) {
         if (array[i] == element) {
@@ -196,6 +267,7 @@ function removeFromArray(array, element) {
     }
 }
 
+//Change chapter's name. Used for preview purposes only
 function localize(name, language) {
     const english = ['lostbelt_prologue', 'general', 'attributes', 'bestiary', 'sin' , 'class', 'yuga_kshetra', 'untranslated'];
     const portuguese = ['lostbelts (prólogo)', 'geral', 'atributos', 'bestiário', 's i n' , 'classes', 'yuga kshetra', 'não traduzidos'];
@@ -205,4 +277,14 @@ function localize(name, language) {
     else if (language == 'english') {
         return portuguese.indexOf(name) >= 0 ? english[portuguese.indexOf(name)] : name;
     }
+}
+
+//Capitalize every first letter of a word
+function capitalizeFirstLetter(string) {
+    string = string.split(" ");
+    for(let i = 0; i < string.length; i++) {
+        string[i] = string[i].charAt(0).toUpperCase() + string[i].slice(1);
+    }
+    string = string.join(" ");
+    return string;
 }
