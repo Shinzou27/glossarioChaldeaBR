@@ -1688,8 +1688,26 @@
         },
         {
             "englishWord": "Four Heavenly Kings",
-            "portugueseWord": "Os (Quatro) Guardiões do Rei",
+            "portugueseWord": "Quatro Guardiões do Rei",
             "description": "Quatro dos mais notáveis retentores de Minamoto-no-Raikou.",
+            "type": "heian-kyo"
+        },
+        {
+            "englishWord": "Naraka Mandala",
+            "portugueseWord": "Mandala de Naraka",
+            "description": "Outro nome da Árvore do Vazio criada por Limbo durante a história de Heian-kyo.",
+            "type": "heian-kyo"
+        },
+        {
+            "englishWord": "Skull Eboshi",
+            "portugueseWord": "Eboshi Craniano",
+            "description": "Chapéu que o Limbo usa em sua última Ascensão.",
+            "type": "heian-kyo"
+        },
+        {
+            "englishWord": "Naraka Mandala Skull Eboshi Ashiya Douman",
+            "portugueseWord": "Ashiya Douman do Eboshi Craniano e da Mandala de Naraka",
+            "description": "Título de Ashiya Douman após se fundir com sua Árvore do Vazio Artificial, a Mandala de Naraka.",
             "type": "heian-kyo"
         },
         {
