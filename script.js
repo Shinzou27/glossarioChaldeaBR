@@ -269,8 +269,8 @@ function removeFromArray(array, element) {
 
 //Change chapter's name. Used for preview purposes only
 function localize(name, language) {
-    const english = ['lostbelt_prologue', 'general', 'attributes', 'bestiary', 'sin' , 'class', 'yuga_kshetra', 'untranslated'];
-    const portuguese = ['lostbelts (prólogo)', 'geral', 'atributos', 'bestiário', 's i n' , 'classes', 'yuga kshetra', 'não traduzidos'];
+    const english = ['lostbelt_prologue', 'general', 'attributes', 'bestiary', 'sin' , 'class', 'yuga_kshetra', 'avalon-le-fae', 'untranslated'];
+    const portuguese = ['lostbelts (prólogo)', 'geral', 'atributos', 'bestiário', 's i n' , 'classes', 'yuga kshetra', 'avalon le fae', 'não traduzidos'];
     if (language == 'portuguese') {
         return english.indexOf(name) >= 0 ? portuguese[english.indexOf(name)] : name;
     }
