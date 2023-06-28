@@ -43,8 +43,6 @@ document.body.onload = async () => {
         }
         return 0;
     });
-    console.log(termTypes);
-    console.log(words);
     filteredGlossary = words;
     glossaryCounter.innerHTML = `Mostrando ${filteredGlossary.length} resultados de ${words.length}.`;
     image.src = 'img/header.png';
@@ -156,7 +154,6 @@ function createElements(object) {
                 ptDiv.removeChild(alert);
             }, 2000)
         })
-        console.log(object.portugueseWord);
     }
     if (object.description == "") {
         description.innerText = "Sem descrição.";
@@ -249,7 +246,6 @@ function arrayMatch(array, string, type) {
         }
     }
     for(let i = 0; i < array.length; i++) {
-        console.log(chaptersArray, array[i])
         if(chaptersArray.includes(array[i])) {
             return true;
         }
