@@ -1,4 +1,4 @@
-[
+export const colors = [
     {
         "bg": "#a3a5ff",
         "txt": "#000131"

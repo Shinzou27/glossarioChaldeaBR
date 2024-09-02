@@ -1,4 +1,4 @@
-import colors from './colors.json' assert {type: 'json'}
+import {colors} from './colors.js';
 
 //HTML Elements
 const glossaryDiv = document.getElementById("glossary-div");
@@ -98,8 +98,8 @@ clearButton.onclick = () => {
     buttonDiv.childNodes.forEach((node) => {
         counter++;
         if (counter >= 6) {
-            node.style.backgroundColor = colors[colors.length - 1].bg;
-            node.style.color = colors[colors.length - 1].txt;
+            node.style.backgroundColor = colors[length - 1].bg;
+            node.style.color = colors[length - 1].txt;
             node.style.opacity = 0.25;
         }
     });
@@ -204,8 +204,8 @@ function createButton(type) {
             clickedButtons.push(type);
             button.style.opacity = 1;
         } else {
-            button.style.backgroundColor = colors[colors.length - 1].bg;
-            button.style.color = colors[colors.length - 1].txt;
+            button.style.backgroundColor = colors[length - 1].bg;
+            button.style.color = colors[length - 1].txt;
             button.style.opacity = 0.25;
             removeFromArray(clickedButtons, type);
         }
